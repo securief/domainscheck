@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-05T02:34:26.270Z",
+  "counts": {
+    "tlds": 1437,
+    "rdap": 1203,
+    "whois": 874,
+    "missingRdap": 234,
+    "missingWhois": 563,
+    "conflicts": 0
+  },
+  "sourceCounts": {
+    "iana-whois": 873,
+    "iana-rdap": 493,
+    "iana": 70,
+    "registry": 1
+  },
+  "duplicates": [],
+  "malformed": [],
+  "invalidUrls": [],
+  "invalidWhois": [],
+  "unknownRdapTlds": [],
+  "missingTlds": [],
+  "fetchFailures": [],
+  "conflicts": []
+}

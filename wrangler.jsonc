@@ -1,0 +1,23 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "domainscheck",
+  "compatibility_date": "2025-09-02",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "@tanstack/react-start/server-entry",
+  "kv_namespaces": [
+    {
+      "binding": "DOMAIN_CACHE",
+      "id": "935398da7d9d44eca8c08d0c3c346ff4"
+    }
+  ],
+  "vars": {
+    "LOOKUP_CONCURRENCY": "5"
+  },
+  "d1_databases": [
+    {
+      "binding": "TLD_DB",
+      "database_name": "tld-registry",
+      "database_id": "353b6925-c0ca-4465-968f-bd89ce3c6ec8"
+    }
+  ]
+}

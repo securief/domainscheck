@@ -1,0 +1,5750 @@
+{
+  "aaa": {
+    "whois": "whois.nic.aaa",
+    "rdap": "https://rdap.nic.aaa/"
+  },
+  "aarp": {
+    "whois": "whois.nic.aarp",
+    "rdap": "https://rdap.nic.aarp/"
+  },
+  "abb": {
+    "whois": "whois.nic.abb",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "abbott": {
+    "whois": "whois.nic.abbott",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "abbvie": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/abbvie/"
+  },
+  "abc": {
+    "whois": "whois.nic.abc",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "able": {
+    "whois": null,
+    "rdap": "https://rdap.nic.able/"
+  },
+  "abogado": {
+    "whois": "whois.nic.abogado",
+    "rdap": "https://rdap.nic.abogado/"
+  },
+  "abudhabi": {
+    "whois": "whois.nic.abudhabi",
+    "rdap": "https://rdap.nic.abudhabi/"
+  },
+  "ac": {
+    "whois": "whois.nic.ac",
+    "rdap": null
+  },
+  "academy": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "accenture": {
+    "whois": "whois.nic.accenture",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "accountant": {
+    "whois": "whois.nic.accountant",
+    "rdap": "https://rdap.nic.accountant/"
+  },
+  "accountants": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "aco": {
+    "whois": "whois.nic.aco",
+    "rdap": "https://rdap.nic.aco/"
+  },
+  "actor": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ad": {
+    "whois": "whois.nic.ad",
+    "rdap": "https://rdap.nic.ad/"
+  },
+  "ads": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "adult": {
+    "whois": "whois.nic.adult",
+    "rdap": "https://rdap.nic.adult/"
+  },
+  "ae": {
+    "whois": "whois.aeda.net.ae",
+    "rdap": null
+  },
+  "aeg": {
+    "whois": "whois.nic.aeg",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "aero": {
+    "whois": "whois.aero",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "aetna": {
+    "whois": null,
+    "rdap": "https://rdap.nic.aetna/"
+  },
+  "af": {
+    "whois": "whois.nic.af",
+    "rdap": null
+  },
+  "afl": {
+    "whois": "whois.nic.afl",
+    "rdap": "https://rdap.nic.afl/"
+  },
+  "africa": {
+    "whois": "whois.nic.africa",
+    "rdap": "https://rdap.nic.africa/rdap/"
+  },
+  "ag": {
+    "whois": "whois.nic.ag",
+    "rdap": null
+  },
+  "agakhan": {
+    "whois": "whois.nic.agakhan",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "agency": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ai": {
+    "whois": "whois.nic.ai",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "aig": {
+    "whois": null,
+    "rdap": "https://rdap.nic.aig/"
+  },
+  "airbus": {
+    "whois": "whois.nic.airbus",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "airforce": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "airtel": {
+    "whois": "whois.nic.airtel",
+    "rdap": "https://rdap.nic.airtel/"
+  },
+  "akdn": {
+    "whois": "whois.nic.akdn",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "al": {
+    "whois": null,
+    "rdap": null
+  },
+  "alibaba": {
+    "whois": "whois.nic.alibaba",
+    "rdap": "https://rdap.aliregistry.cn/rdap/"
+  },
+  "alipay": {
+    "whois": "whois.nic.alipay",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "allfinanz": {
+    "whois": "whois.nic.allfinanz",
+    "rdap": "https://rdap.centralnic.com/allfinanz/"
+  },
+  "allstate": {
+    "whois": "whois.nic.allstate",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ally": {
+    "whois": "whois.nic.ally",
+    "rdap": "https://rdap.nic.ally/"
+  },
+  "alsace": {
+    "whois": "whois.nic.alsace",
+    "rdap": "https://rdap.nic.alsace/"
+  },
+  "alstom": {
+    "whois": "whois.nic.alstom",
+    "rdap": "https://rdap.nic.alstom/"
+  },
+  "am": {
+    "whois": "whois.amnic.net",
+    "rdap": null
+  },
+  "amazon": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/amazon/"
+  },
+  "americanexpress": {
+    "whois": null,
+    "rdap": "https://rdap.nic.americanexpress/"
+  },
+  "americanfamily": {
+    "whois": "whois.nic.americanfamily",
+    "rdap": "https://rdap.nic.americanfamily/"
+  },
+  "amex": {
+    "whois": null,
+    "rdap": "https://rdap.nic.amex/"
+  },
+  "amfam": {
+    "whois": "whois.nic.amfam",
+    "rdap": "https://rdap.nic.amfam/"
+  },
+  "amica": {
+    "whois": null,
+    "rdap": "https://rdap.nic.amica/"
+  },
+  "amsterdam": {
+    "whois": "whois.nic.amsterdam",
+    "rdap": "https://rdap.nic.amsterdam/"
+  },
+  "analytics": {
+    "whois": null,
+    "rdap": "https://rdap.nic.analytics/"
+  },
+  "android": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "anquan": {
+    "whois": "whois.teleinfo.cn",
+    "rdap": "https://rdap.teleinfo.cn/"
+  },
+  "anz": {
+    "whois": "whois.nic.anz",
+    "rdap": "https://rdap.nic.anz/"
+  },
+  "ao": {
+    "whois": null,
+    "rdap": null
+  },
+  "aol": {
+    "whois": "whois.nic.aol",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "apartments": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "app": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "apple": {
+    "whois": null,
+    "rdap": "https://rdap.nic.apple/"
+  },
+  "aq": {
+    "whois": null,
+    "rdap": null
+  },
+  "aquarelle": {
+    "whois": "whois.nic.aquarelle",
+    "rdap": "https://rdap.nic.aquarelle/"
+  },
+  "ar": {
+    "whois": "whois.nic.ar",
+    "rdap": "https://rdap.nic.ar/"
+  },
+  "arab": {
+    "whois": "whois.nic.arab",
+    "rdap": "https://rdap.nic.arab/"
+  },
+  "aramco": {
+    "whois": null,
+    "rdap": "https://rdap.nic.aramco/"
+  },
+  "archi": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "army": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "arpa": {
+    "whois": "whois.iana.org",
+    "rdap": null
+  },
+  "art": {
+    "whois": "whois.nic.art",
+    "rdap": "https://rdap.centralnic.com/art/"
+  },
+  "arte": {
+    "whois": "whois.nic.arte",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "as": {
+    "whois": "whois.nic.as",
+    "rdap": "https://rdap.nic.as/"
+  },
+  "asda": {
+    "whois": "whois.nic.asda",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "asia": {
+    "whois": "whois.nic.asia",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "associates": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "at": {
+    "whois": "whois.nic.at",
+    "rdap": null
+  },
+  "athleta": {
+    "whois": null,
+    "rdap": "https://rdap.nic.athleta/"
+  },
+  "attorney": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "au": {
+    "whois": "whois.auda.org.au",
+    "rdap": "https://rdap.cctld.au/rdap/"
+  },
+  "auction": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "audi": {
+    "whois": "whois.nic.audi",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "audible": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/audible/"
+  },
+  "audio": {
+    "whois": "whois.nic.audio",
+    "rdap": "https://rdap.centralnic.com/audio/"
+  },
+  "auspost": {
+    "whois": "whois.nic.auspost",
+    "rdap": "https://rdap.nic.auspost/"
+  },
+  "author": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/author/"
+  },
+  "auto": {
+    "whois": "whois.nic.auto",
+    "rdap": "https://rdap.centralnic.com/auto/"
+  },
+  "autos": {
+    "whois": "whois.nic.autos",
+    "rdap": "https://rdap.centralnic.com/autos/"
+  },
+  "aw": {
+    "whois": "whois.nic.aw",
+    "rdap": null
+  },
+  "aws": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/aws/"
+  },
+  "ax": {
+    "whois": "whois.ax",
+    "rdap": null
+  },
+  "axa": {
+    "whois": null,
+    "rdap": "https://rdap.nic.axa/"
+  },
+  "az": {
+    "whois": null,
+    "rdap": null
+  },
+  "azure": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/azure/"
+  },
+  "ba": {
+    "whois": null,
+    "rdap": null
+  },
+  "baby": {
+    "whois": "whois.nic.baby",
+    "rdap": "https://rdap.centralnic.com/baby/"
+  },
+  "baidu": {
+    "whois": "whois.gtld.knet.cn",
+    "rdap": "https://rdap.zdnsgtld.com/baidu/"
+  },
+  "banamex": {
+    "whois": null,
+    "rdap": "https://rdap.nic.banamex/"
+  },
+  "band": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bank": {
+    "whois": "whois.nic.bank",
+    "rdap": "https://rdap.nic.bank/"
+  },
+  "bar": {
+    "whois": "whois.nic.bar",
+    "rdap": "https://rdap.registry.bar/rdap/"
+  },
+  "barcelona": {
+    "whois": "whois.nic.barcelona",
+    "rdap": "https://rdap.nic.barcelona/"
+  },
+  "barclaycard": {
+    "whois": "whois.nic.barclaycard",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "barclays": {
+    "whois": "whois.nic.barclays",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "barefoot": {
+    "whois": "whois.nic.barefoot",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bargains": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "baseball": {
+    "whois": "whois.nic.baseball",
+    "rdap": "https://rdap.nic.baseball/"
+  },
+  "basketball": {
+    "whois": "whois.nic.basketball",
+    "rdap": "https://rdap.nic.basketball/"
+  },
+  "bauhaus": {
+    "whois": "whois.nic.bauhaus",
+    "rdap": "https://rdap.nic.bauhaus/"
+  },
+  "bayern": {
+    "whois": "whois.nic.bayern",
+    "rdap": "https://rdap.nic.bayern/"
+  },
+  "bb": {
+    "whois": null,
+    "rdap": null
+  },
+  "bbc": {
+    "whois": "whois.nic.bbc",
+    "rdap": "https://rdap.nominet.uk/bbc/"
+  },
+  "bbt": {
+    "whois": "whois.nic.bbt",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bbva": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/bbva/"
+  },
+  "bcg": {
+    "whois": "whois.nic.bcg",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bcn": {
+    "whois": "whois.nic.bcn",
+    "rdap": "https://rdap.nic.bcn/"
+  },
+  "bd": {
+    "whois": null,
+    "rdap": null
+  },
+  "be": {
+    "whois": "whois.dns.be",
+    "rdap": null
+  },
+  "beats": {
+    "whois": "whois.nic.beats",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "beauty": {
+    "whois": "whois.nic.beauty",
+    "rdap": "https://rdap.centralnic.com/beauty/"
+  },
+  "beer": {
+    "whois": "whois.nic.beer",
+    "rdap": "https://rdap.nic.beer/"
+  },
+  "berlin": {
+    "whois": "whois.nic.berlin",
+    "rdap": "https://rdap.nic.berlin/v1/"
+  },
+  "best": {
+    "whois": "whois.nic.best",
+    "rdap": "https://rdap.centralnic.com/best/"
+  },
+  "bestbuy": {
+    "whois": "whois.nic.bestbuy",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bet": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bf": {
+    "whois": "whois.registre.bf",
+    "rdap": null
+  },
+  "bg": {
+    "whois": "whois.register.bg",
+    "rdap": null
+  },
+  "bh": {
+    "whois": "whois.bhregistry.bh",
+    "rdap": "https://rdap.bhregistry.bh/rdap/"
+  },
+  "bharti": {
+    "whois": "whois.nic.bharti",
+    "rdap": "https://rdap.nic.bharti/"
+  },
+  "bi": {
+    "whois": "whois1.nic.bi",
+    "rdap": null
+  },
+  "bible": {
+    "whois": "whois.nic.bible",
+    "rdap": "https://rdap.nic.bible/"
+  },
+  "bid": {
+    "whois": "whois.nic.bid",
+    "rdap": "https://rdap.nic.bid/"
+  },
+  "bike": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bing": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/bing/"
+  },
+  "bingo": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bio": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "biz": {
+    "whois": "whois.nic.biz",
+    "rdap": "https://rdap.nic.biz/"
+  },
+  "bj": {
+    "whois": "whois.nic.bj",
+    "rdap": null
+  },
+  "black": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "blackfriday": {
+    "whois": "whois.nic.blackfriday",
+    "rdap": "https://rdap.nic.blackfriday/"
+  },
+  "blockbuster": {
+    "whois": "whois.nic.blockbuster",
+    "rdap": "https://rdap.mobile-registry.com/rdap/"
+  },
+  "blog": {
+    "whois": "whois.nic.blog",
+    "rdap": "https://rdap.blog.fury.ca/rdap/"
+  },
+  "bloomberg": {
+    "whois": "whois.nic.bloomberg",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "blue": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bm": {
+    "whois": "whois.nic.bm",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bms": {
+    "whois": "whois.nic.bms",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bmw": {
+    "whois": "whois.nic.bmw",
+    "rdap": "https://rdap.centralnic.com/bmw/"
+  },
+  "bn": {
+    "whois": "whois.bnnic.bn",
+    "rdap": null
+  },
+  "bnpparibas": {
+    "whois": "whois.nic.bnpparibas",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bo": {
+    "whois": "whois.nic.bo",
+    "rdap": null
+  },
+  "boats": {
+    "whois": "whois.nic.boats",
+    "rdap": "https://rdap.centralnic.com/boats/"
+  },
+  "boehringer": {
+    "whois": "whois.nic.boehringer",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bofa": {
+    "whois": "whois.nic.bofa",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bom": {
+    "whois": null,
+    "rdap": "https://rdap.gtlds.nic.br/"
+  },
+  "bond": {
+    "whois": "whois.nic.bond",
+    "rdap": "https://rdap.centralnic.com/bond/"
+  },
+  "boo": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "book": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/book/"
+  },
+  "booking": {
+    "whois": null,
+    "rdap": "https://rdap.nic.booking/"
+  },
+  "bosch": {
+    "whois": "whois.nic.bosch",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bostik": {
+    "whois": "whois.nic.bostik",
+    "rdap": "https://rdap.nic.bostik/"
+  },
+  "boston": {
+    "whois": "whois.nic.boston",
+    "rdap": "https://rdap.nic.boston/"
+  },
+  "bot": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/bot/"
+  },
+  "boutique": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "box": {
+    "whois": "whois.nic.box",
+    "rdap": "https://rdap.centralnic.com/box/"
+  },
+  "br": {
+    "whois": "whois.registro.br",
+    "rdap": "https://rdap.registro.br/"
+  },
+  "bradesco": {
+    "whois": "whois.nic.bradesco",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "bridgestone": {
+    "whois": "whois.nic.bridgestone",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "broadway": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/broadway/"
+  },
+  "broker": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "brother": {
+    "whois": "whois.nic.brother",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "brussels": {
+    "whois": null,
+    "rdap": "https://rdap.nic.brussels/"
+  },
+  "bs": {
+    "whois": null,
+    "rdap": null
+  },
+  "bt": {
+    "whois": null,
+    "rdap": null
+  },
+  "build": {
+    "whois": "whois.nic.build",
+    "rdap": "https://rdap.centralnic.com/build/"
+  },
+  "builders": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "business": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "buy": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/buy/"
+  },
+  "buzz": {
+    "whois": "whois.nic.buzz",
+    "rdap": "https://rdap.nic.buzz/"
+  },
+  "bv": {
+    "whois": null,
+    "rdap": null
+  },
+  "bw": {
+    "whois": "whois.nic.net.bw",
+    "rdap": null
+  },
+  "by": {
+    "whois": "whois.cctld.by",
+    "rdap": null
+  },
+  "bz": {
+    "whois": null,
+    "rdap": null
+  },
+  "bzh": {
+    "whois": "whois.nic.bzh",
+    "rdap": "https://rdap.nic.bzh/"
+  },
+  "ca": {
+    "whois": "whois.cira.ca",
+    "rdap": "https://rdap.ca.fury.ca/rdap/"
+  },
+  "cab": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "cafe": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "cal": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "call": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/call/"
+  },
+  "calvinklein": {
+    "whois": null,
+    "rdap": "https://rdap.nic.calvinklein/"
+  },
+  "cam": {
+    "whois": "whois.nic.cam",
+    "rdap": "https://rdap.centralnic.com/cam/"
+  },
+  "camera": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "camp": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "canon": {
+    "whois": "whois.nic.canon",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "capetown": {
+    "whois": "whois.nic.capetown",
+    "rdap": "https://rdap.nic.capetown/rdap/"
+  },
+  "capital": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "capitalone": {
+    "whois": "whois.nic.capitalone",
+    "rdap": "https://rdap.nic.capitalone/"
+  },
+  "car": {
+    "whois": "whois.nic.car",
+    "rdap": "https://rdap.centralnic.com/car/"
+  },
+  "caravan": {
+    "whois": null,
+    "rdap": "https://rdap.nic.caravan/"
+  },
+  "cards": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "care": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "career": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/career/"
+  },
+  "careers": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "cars": {
+    "whois": "whois.nic.cars",
+    "rdap": "https://rdap.centralnic.com/cars/"
+  },
+  "casa": {
+    "whois": "whois.nic.casa",
+    "rdap": "https://rdap.nic.casa/"
+  },
+  "case": {
+    "whois": "whois.nic.case",
+    "rdap": "https://rdap.centralnic.com/case/"
+  },
+  "cash": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "casino": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "cat": {
+    "whois": "whois.nic.cat",
+    "rdap": "https://rdap.nic.cat/"
+  },
+  "catering": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "catholic": {
+    "whois": "whois.nic.catholic",
+    "rdap": "https://rdap.nic.catholic/"
+  },
+  "cba": {
+    "whois": "whois.nic.cba",
+    "rdap": "https://rdap.nic.cba/"
+  },
+  "cbn": {
+    "whois": null,
+    "rdap": "https://rdap.nic.cbn/"
+  },
+  "cbre": {
+    "whois": null,
+    "rdap": "https://rdap.nic.cbre/"
+  },
+  "cc": {
+    "whois": "ccwhois.verisign-grs.com",
+    "rdap": "https://tld-rdap.verisign.com/cc/v1/"
+  },
+  "cd": {
+    "whois": null,
+    "rdap": null
+  },
+  "center": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ceo": {
+    "whois": "whois.nic.ceo",
+    "rdap": "https://rdap.centralnic.com/ceo/"
+  },
+  "cern": {
+    "whois": "whois.nic.cern",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "cf": {
+    "whois": "whois.dot.cf",
+    "rdap": null
+  },
+  "cfa": {
+    "whois": "whois.nic.cfa",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "cfd": {
+    "whois": "whois.nic.cfd",
+    "rdap": "https://rdap.centralnic.com/cfd/"
+  },
+  "cg": {
+    "whois": null,
+    "rdap": null
+  },
+  "ch": {
+    "whois": "whois.nic.ch",
+    "rdap": null
+  },
+  "chanel": {
+    "whois": "whois.nic.chanel",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "channel": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "charity": {
+    "whois": "whois.nic.charity",
+    "rdap": "https://rdap.publicinterestregistry.org/rdap/"
+  },
+  "chase": {
+    "whois": null,
+    "rdap": "https://rdap.nic.chase/"
+  },
+  "chat": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "cheap": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "chintai": {
+    "whois": "whois.nic.chintai",
+    "rdap": "https://rdap.nic.chintai/"
+  },
+  "christmas": {
+    "whois": "whois.nic.christmas",
+    "rdap": "https://rdap.centralnic.com/christmas/"
+  },
+  "chrome": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "church": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ci": {
+    "whois": "whois.nic.ci",
+    "rdap": null
+  },
+  "cipriani": {
+    "whois": "whois.nic.cipriani",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "circle": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "cisco": {
+    "whois": null,
+    "rdap": "https://rdap.nic.cisco/"
+  },
+  "citadel": {
+    "whois": "whois.nic.citadel",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "citi": {
+    "whois": null,
+    "rdap": "https://rdap.nic.citi/"
+  },
+  "citic": {
+    "whois": null,
+    "rdap": "https://rdap.zdnsgtld.com/citic/"
+  },
+  "city": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ck": {
+    "whois": null,
+    "rdap": null
+  },
+  "cl": {
+    "whois": "whois.nic.cl",
+    "rdap": null
+  },
+  "claims": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "cleaning": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "click": {
+    "whois": "whois.registry.click",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "clinic": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "clinique": {
+    "whois": "whois.nic.clinique",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "clothing": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "cloud": {
+    "whois": "whois.nic.cloud",
+    "rdap": "https://rdap.registry.cloud/rdap/"
+  },
+  "club": {
+    "whois": "whois.nic.club",
+    "rdap": "https://rdap.nic.club/"
+  },
+  "clubmed": {
+    "whois": "whois.nic.clubmed",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "cm": {
+    "whois": "whois.nic.cm",
+    "rdap": "https://rdap.nic.cm/"
+  },
+  "cn": {
+    "whois": "whois.cnnic.cn",
+    "rdap": null
+  },
+  "co": {
+    "whois": "whois.registry.co",
+    "rdap": null
+  },
+  "coach": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "codes": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "coffee": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "college": {
+    "whois": "whois.nic.college",
+    "rdap": "https://rdap.centralnic.com/college/"
+  },
+  "cologne": {
+    "whois": "whois.ryce-rsp.com",
+    "rdap": "https://rdap.ryce-rsp.com/rdap/"
+  },
+  "com": {
+    "whois": "whois.verisign-grs.com",
+    "rdap": "https://rdap.verisign.com/com/v1/"
+  },
+  "commbank": {
+    "whois": "whois.nic.commbank",
+    "rdap": "https://rdap.nic.commbank/"
+  },
+  "community": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "company": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "compare": {
+    "whois": "whois.nic.compare",
+    "rdap": "https://rdap.nic.compare/"
+  },
+  "computer": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "comsec": {
+    "whois": "whois.nic.comsec",
+    "rdap": "https://tld-rdap.verisign.com/comsec/v1/"
+  },
+  "condos": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "construction": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "consulting": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "contact": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "contractors": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "cooking": {
+    "whois": "whois.nic.cooking",
+    "rdap": "https://rdap.nic.cooking/"
+  },
+  "cool": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "coop": {
+    "whois": "whois.nic.coop",
+    "rdap": "https://rdap.registry.coop/rdap/"
+  },
+  "corsica": {
+    "whois": "whois.nic.corsica",
+    "rdap": "https://rdap.nic.corsica/"
+  },
+  "country": {
+    "whois": "whois.registry.click",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "coupon": {
+    "whois": "whois.nic.coupon",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "coupons": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "courses": {
+    "whois": "whois.nic.courses",
+    "rdap": "https://rdap.nic.courses/"
+  },
+  "cpa": {
+    "whois": "whois.nic.cpa",
+    "rdap": "https://rdap.nic.cpa/"
+  },
+  "cr": {
+    "whois": "whois.nic.cr",
+    "rdap": "https://rdap.nic.cr/"
+  },
+  "credit": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "creditcard": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "creditunion": {
+    "whois": "whois.nic.creditunion",
+    "rdap": "https://rdap.registry.coop/rdap/"
+  },
+  "cricket": {
+    "whois": "whois.nic.cricket",
+    "rdap": "https://rdap.nic.cricket/"
+  },
+  "crown": {
+    "whois": "whois.nic.crown",
+    "rdap": "https://rdap.crown.fury.ca/rdap/"
+  },
+  "crs": {
+    "whois": "whois.nic.crs",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "cruise": {
+    "whois": "whois.nic.cruise",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "cruises": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "cu": {
+    "whois": null,
+    "rdap": null
+  },
+  "cuisinella": {
+    "whois": "whois.nic.cuisinella",
+    "rdap": "https://rdap.nic.cuisinella/"
+  },
+  "cv": {
+    "whois": "whois.nic.cv",
+    "rdap": "https://rdap.nic.cv/"
+  },
+  "cw": {
+    "whois": null,
+    "rdap": null
+  },
+  "cx": {
+    "whois": "whois.nic.cx",
+    "rdap": "https://rdap.nic.cx/"
+  },
+  "cy": {
+    "whois": null,
+    "rdap": null
+  },
+  "cymru": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/cymru/"
+  },
+  "cyou": {
+    "whois": "whois.nic.cyou",
+    "rdap": "https://rdap.centralnic.com/cyou/"
+  },
+  "cz": {
+    "whois": "whois.nic.cz",
+    "rdap": "https://rdap.nic.cz/"
+  },
+  "dad": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "dance": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "data": {
+    "whois": "whois.nic.data",
+    "rdap": "https://rdap.mobile-registry.com/rdap/"
+  },
+  "date": {
+    "whois": "whois.nic.date",
+    "rdap": "https://rdap.nic.date/"
+  },
+  "dating": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "datsun": {
+    "whois": "whois.nic.gmo",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "day": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "dclk": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "dds": {
+    "whois": "whois.nic.dds",
+    "rdap": "https://rdap.nic.dds/"
+  },
+  "de": {
+    "whois": "whois.denic.de",
+    "rdap": null
+  },
+  "deal": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/deal/"
+  },
+  "dealer": {
+    "whois": "whois.nic.dealer",
+    "rdap": "https://rdap.centralnic.com/dealer/"
+  },
+  "deals": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "degree": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "delivery": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "dell": {
+    "whois": null,
+    "rdap": "https://rdap.nic.dell/"
+  },
+  "deloitte": {
+    "whois": "whois.nic.deloitte",
+    "rdap": "https://rdap.centralnic.com/deloitte/"
+  },
+  "delta": {
+    "whois": "whois.nic.delta",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "democrat": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "dental": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "dentist": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "desi": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/desi/"
+  },
+  "design": {
+    "whois": "whois.nic.design",
+    "rdap": "https://rdap.nic.design/"
+  },
+  "dev": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "dhl": {
+    "whois": null,
+    "rdap": "https://rdap.centralnic.com/dhl/"
+  },
+  "diamonds": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "diet": {
+    "whois": "whois.nic.diet",
+    "rdap": "https://rdap.centralnic.com/diet/"
+  },
+  "digital": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "direct": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "directory": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "discount": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "discover": {
+    "whois": "whois.nic.discover",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "dish": {
+    "whois": "whois.nic.dish",
+    "rdap": "https://rdap.mobile-registry.com/rdap/"
+  },
+  "diy": {
+    "whois": "whois.registry.click",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "dj": {
+    "whois": null,
+    "rdap": null
+  },
+  "dk": {
+    "whois": "whois.punktum.dk",
+    "rdap": null
+  },
+  "dm": {
+    "whois": "whois.dmdomains.dm",
+    "rdap": null
+  },
+  "dnp": {
+    "whois": "whois.nic.dnp",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "do": {
+    "whois": "whois.nic.do",
+    "rdap": null
+  },
+  "docs": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "doctor": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "dog": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "domains": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "dot": {
+    "whois": "whois.nic.dot",
+    "rdap": "https://rdap.mobile-registry.com/rdap/"
+  },
+  "download": {
+    "whois": "whois.nic.download",
+    "rdap": "https://rdap.nic.download/"
+  },
+  "drive": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "dtv": {
+    "whois": "whois.nic.dtv",
+    "rdap": "https://rdap.mobile-registry.com/rdap/"
+  },
+  "dubai": {
+    "whois": "whois.nic.dubai",
+    "rdap": "https://rdap.nic.dubai/"
+  },
+  "dupont": {
+    "whois": null,
+    "rdap": "https://rdap.nic.dupont/"
+  },
+  "durban": {
+    "whois": "whois.nic.durban",
+    "rdap": "https://rdap.nic.durban/rdap/"
+  },
+  "dvag": {
+    "whois": "whois.nic.dvag",
+    "rdap": "https://rdap.centralnic.com/dvag/"
+  },
+  "dvr": {
+    "whois": "whois.nic.dvr",
+    "rdap": "https://rdap.mobile-registry.com/rdap/"
+  },
+  "dz": {
+    "whois": "whois.nic.dz",
+    "rdap": null
+  },
+  "earth": {
+    "whois": "whois.nic.earth",
+    "rdap": "https://rdap.nic.earth/"
+  },
+  "eat": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "ec": {
+    "whois": "whois.nic.ec",
+    "rdap": "https://rdap.registry.ec/"
+  },
+  "eco": {
+    "whois": "whois.nic.eco",
+    "rdap": "https://rdap.eco.fury.ca/rdap/"
+  },
+  "edeka": {
+    "whois": "whois.nic.edeka",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "edu": {
+    "whois": "whois.educause.edu",
+    "rdap": null
+  },
+  "education": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ee": {
+    "whois": "whois.tld.ee",
+    "rdap": null
+  },
+  "eg": {
+    "whois": null,
+    "rdap": null
+  },
+  "email": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "emerck": {
+    "whois": "whois.nic.emerck",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "energy": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "engineer": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "engineering": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "enterprises": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "epson": {
+    "whois": "whois.nic.epson",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "equipment": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "er": {
+    "whois": null,
+    "rdap": null
+  },
+  "ericsson": {
+    "whois": "whois.nic.ericsson",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "erni": {
+    "whois": "whois.nic.erni",
+    "rdap": "https://rdap.nic.erni/"
+  },
+  "es": {
+    "whois": "whois.nic.es",
+    "rdap": null
+  },
+  "esq": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "estate": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "et": {
+    "whois": null,
+    "rdap": null
+  },
+  "eu": {
+    "whois": "whois.eu",
+    "rdap": null
+  },
+  "eurovision": {
+    "whois": "whois.nic.eurovision",
+    "rdap": "https://rdap.nic.eurovision/"
+  },
+  "eus": {
+    "whois": "whois.nic.eus",
+    "rdap": "https://rdap.nic.eus/"
+  },
+  "events": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "exchange": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "expert": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "exposed": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "express": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "extraspace": {
+    "whois": "whois.nic.extraspace",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "fage": {
+    "whois": "whois.nic.fage",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "fail": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "fairwinds": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/fairwinds/"
+  },
+  "faith": {
+    "whois": "whois.nic.faith",
+    "rdap": "https://rdap.nic.faith/"
+  },
+  "family": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "fan": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "fans": {
+    "whois": "whois.nic.fans",
+    "rdap": "https://rdap.centralnic.com/fans/"
+  },
+  "farm": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "farmers": {
+    "whois": null,
+    "rdap": "https://rdap.nic.farmers/"
+  },
+  "fashion": {
+    "whois": "whois.nic.fashion",
+    "rdap": "https://rdap.nic.fashion/"
+  },
+  "fast": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/fast/"
+  },
+  "fedex": {
+    "whois": "whois.nic.fedex",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "feedback": {
+    "whois": "whois.registry.click",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "ferrari": {
+    "whois": "whois.nic.ferrari",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ferrero": {
+    "whois": null,
+    "rdap": "https://rdap.nic.ferrero/"
+  },
+  "fi": {
+    "whois": "whois.fi",
+    "rdap": "https://rdap.fi/rdap/rdap/"
+  },
+  "fidelity": {
+    "whois": "whois.nic.fidelity",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "fido": {
+    "whois": "whois.nic.fido",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "film": {
+    "whois": "whois.nic.film",
+    "rdap": "https://rdap.nic.film/"
+  },
+  "final": {
+    "whois": null,
+    "rdap": "https://rdap.gtlds.nic.br/"
+  },
+  "finance": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "financial": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "fire": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/fire/"
+  },
+  "firestone": {
+    "whois": "whois.nic.firestone",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "firmdale": {
+    "whois": "whois.nic.firmdale",
+    "rdap": "https://rdap.nic.firmdale/"
+  },
+  "fish": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "fishing": {
+    "whois": "whois.nic.fishing",
+    "rdap": "https://rdap.nic.fishing/"
+  },
+  "fit": {
+    "whois": "whois.nic.fit",
+    "rdap": "https://rdap.nic.fit/"
+  },
+  "fitness": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "fj": {
+    "whois": "www.whois.fj",
+    "rdap": "https://www.rdap.fj/"
+  },
+  "fk": {
+    "whois": null,
+    "rdap": null
+  },
+  "flickr": {
+    "whois": null,
+    "rdap": "https://rdap.nic.flickr/"
+  },
+  "flights": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "flir": {
+    "whois": null,
+    "rdap": "https://rdap.nic.flir/"
+  },
+  "florist": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "flowers": {
+    "whois": "whois.nic.flowers",
+    "rdap": "https://rdap.centralnic.com/flowers/"
+  },
+  "fly": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "fm": {
+    "whois": "whois.nic.fm",
+    "rdap": "https://rdap.centralnic.com/fm/"
+  },
+  "fo": {
+    "whois": "whois.nic.fo",
+    "rdap": "https://rdap.centralnic.com/fo/"
+  },
+  "foo": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "food": {
+    "whois": "whois.registry.click",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "football": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ford": {
+    "whois": null,
+    "rdap": "https://rdap.nic.ford/"
+  },
+  "forex": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "forsale": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "forum": {
+    "whois": "whois.registry.click",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "foundation": {
+    "whois": "whois.nic.foundation",
+    "rdap": "https://rdap.publicinterestregistry.org/rdap/"
+  },
+  "fox": {
+    "whois": "whois.nic.fox",
+    "rdap": "https://rdap.nic.fox/"
+  },
+  "fr": {
+    "whois": "whois.nic.fr",
+    "rdap": "https://rdap.nic.fr/"
+  },
+  "free": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/free/"
+  },
+  "fresenius": {
+    "whois": "whois.nic.fresenius",
+    "rdap": "https://rdap.centralnic.com/fresenius/"
+  },
+  "frl": {
+    "whois": "whois.nic.frl",
+    "rdap": "https://rdap.centralnic.com/frl/"
+  },
+  "frogans": {
+    "whois": "whois.nic.frogans",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "frontier": {
+    "whois": null,
+    "rdap": "https://rdap.nic.frontier/"
+  },
+  "ftr": {
+    "whois": null,
+    "rdap": "https://rdap.nic.ftr/"
+  },
+  "fujitsu": {
+    "whois": "whois.nic.gmo",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "fun": {
+    "whois": "whois.nic.fun",
+    "rdap": "https://rdap.radix.host/rdap/"
+  },
+  "fund": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "furniture": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "futbol": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "fyi": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ga": {
+    "whois": null,
+    "rdap": null
+  },
+  "gal": {
+    "whois": "whois.nic.gal",
+    "rdap": "https://rdap.nic.gal/"
+  },
+  "gallery": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "gallo": {
+    "whois": "whois.nic.gallo",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "gallup": {
+    "whois": "whois.nic.gallup",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "game": {
+    "whois": "whois.nic.game",
+    "rdap": "https://rdap.centralnic.com/game/"
+  },
+  "games": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "gap": {
+    "whois": null,
+    "rdap": "https://rdap.nic.gap/"
+  },
+  "garden": {
+    "whois": "whois.nic.garden",
+    "rdap": "https://rdap.nic.garden/"
+  },
+  "gay": {
+    "whois": "whois.nic.gay",
+    "rdap": "https://rdap.nic.gay/"
+  },
+  "gb": {
+    "whois": null,
+    "rdap": null
+  },
+  "gbiz": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "gd": {
+    "whois": "whois.nic.gd",
+    "rdap": "https://rdap.centralnic.com/gd/"
+  },
+  "gdn": {
+    "whois": "whois.nic.gdn",
+    "rdap": "https://rdap.nic.gdn/"
+  },
+  "ge": {
+    "whois": "whois.nic.ge",
+    "rdap": null
+  },
+  "gea": {
+    "whois": "whois.nic.gea",
+    "rdap": "https://rdap.nic.gea/"
+  },
+  "gent": {
+    "whois": "whois.nic.gent",
+    "rdap": "https://rdap.centralnic.com/gent/"
+  },
+  "genting": {
+    "whois": "whois.nic.genting",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "george": {
+    "whois": "whois.nic.george",
+    "rdap": "https://rdap.nic.george/"
+  },
+  "gf": {
+    "whois": "whois.mediaserv.net",
+    "rdap": null
+  },
+  "gg": {
+    "whois": "whois.gg",
+    "rdap": null
+  },
+  "ggee": {
+    "whois": "whois.nic.ggee",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "gh": {
+    "whois": "whois.nic.gh",
+    "rdap": null
+  },
+  "gi": {
+    "whois": "whois.identitydigital.services",
+    "rdap": null
+  },
+  "gift": {
+    "whois": "whois.registry.gift",
+    "rdap": "https://rdap.registry.gift/rdap/"
+  },
+  "gifts": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "gives": {
+    "whois": "whois.nic.gives",
+    "rdap": "https://rdap.publicinterestregistry.org/rdap/"
+  },
+  "giving": {
+    "whois": "whois.nic.giving",
+    "rdap": "https://rdap.publicinterestregistry.org/rdap/"
+  },
+  "gl": {
+    "whois": "whois.nic.gl",
+    "rdap": null
+  },
+  "glass": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "gle": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "global": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "globo": {
+    "whois": null,
+    "rdap": "https://rdap.gtlds.nic.br/"
+  },
+  "gm": {
+    "whois": null,
+    "rdap": null
+  },
+  "gmail": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "gmbh": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "gmo": {
+    "whois": "whois.nic.gmo",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "gmx": {
+    "whois": "whois.nic.gmx",
+    "rdap": "https://rdap.nic.gmx/"
+  },
+  "gn": {
+    "whois": "whois.ande.gov.gn",
+    "rdap": null
+  },
+  "godaddy": {
+    "whois": "whois.nic.godaddy",
+    "rdap": "https://rdap.nic.godaddy/"
+  },
+  "gold": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "goldpoint": {
+    "whois": "whois.nic.goldpoint",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "golf": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "goodyear": {
+    "whois": "whois.nic.goodyear",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "goog": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "google": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "gop": {
+    "whois": "whois.nic.gop",
+    "rdap": "https://rdap.nominet.uk/gop/"
+  },
+  "got": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "gov": {
+    "whois": "whois.nic.gov",
+    "rdap": "https://rdap.nic.gov/rdap/"
+  },
+  "gp": {
+    "whois": "whois.nic.gp",
+    "rdap": null
+  },
+  "gq": {
+    "whois": "whois.dominio.gq",
+    "rdap": null
+  },
+  "gr": {
+    "whois": null,
+    "rdap": null
+  },
+  "grainger": {
+    "whois": null,
+    "rdap": "https://rdap.nic.grainger/"
+  },
+  "graphics": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "gratis": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "green": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "gripe": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "grocery": {
+    "whois": "whois.nic.grocery",
+    "rdap": "https://rdap.nic.grocery/"
+  },
+  "group": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "gs": {
+    "whois": "whois.nic.gs",
+    "rdap": "https://rdap.nic.gs/"
+  },
+  "gt": {
+    "whois": null,
+    "rdap": null
+  },
+  "gu": {
+    "whois": null,
+    "rdap": null
+  },
+  "gucci": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/gucci/"
+  },
+  "guge": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "guide": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "guitars": {
+    "whois": "whois.nic.guitars",
+    "rdap": "https://rdap.centralnic.com/guitars/"
+  },
+  "guru": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "gw": {
+    "whois": null,
+    "rdap": null
+  },
+  "gy": {
+    "whois": "whois.registry.gy",
+    "rdap": "https://rdap.registry.gy/"
+  },
+  "hair": {
+    "whois": "whois.nic.hair",
+    "rdap": "https://rdap.centralnic.com/hair/"
+  },
+  "hamburg": {
+    "whois": "whois.nic.hamburg",
+    "rdap": "https://rdap.nic.hamburg/v1/"
+  },
+  "hangout": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "haus": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "hbo": {
+    "whois": null,
+    "rdap": "https://rdap.nic.hbo/"
+  },
+  "hdfc": {
+    "whois": "whois.nic.hdfc",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "hdfcbank": {
+    "whois": "whois.nic.hdfcbank",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "health": {
+    "whois": null,
+    "rdap": "https://rdap.nic.health/"
+  },
+  "healthcare": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "help": {
+    "whois": "whois.nic.help",
+    "rdap": "https://rdap.centralnic.com/help/"
+  },
+  "helsinki": {
+    "whois": "whois.nic.helsinki",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "here": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "hermes": {
+    "whois": "whois.nic.hermes",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "hiphop": {
+    "whois": "whois.nic.hiphop",
+    "rdap": "https://rdap.registry.hiphop/rdap/"
+  },
+  "hisamitsu": {
+    "whois": "whois.nic.gmo",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "hitachi": {
+    "whois": "whois.nic.gmo",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "hiv": {
+    "whois": "whois.registry.click",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "hk": {
+    "whois": "whois.hkirc.hk",
+    "rdap": null
+  },
+  "hkt": {
+    "whois": "whois.nic.hkt",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "hm": {
+    "whois": "whois.registry.hm",
+    "rdap": null
+  },
+  "hn": {
+    "whois": "whois.nic.hn",
+    "rdap": "https://rdap.nic.hn/"
+  },
+  "hockey": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "holdings": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "holiday": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "homedepot": {
+    "whois": "whois.nic.homedepot",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "homegoods": {
+    "whois": null,
+    "rdap": "https://rdap.nic.homegoods/"
+  },
+  "homes": {
+    "whois": "whois.nic.homes",
+    "rdap": "https://rdap.centralnic.com/homes/"
+  },
+  "homesense": {
+    "whois": null,
+    "rdap": "https://rdap.nic.homesense/"
+  },
+  "honda": {
+    "whois": "whois.nic.honda",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "horse": {
+    "whois": "whois.nic.horse",
+    "rdap": "https://rdap.nic.horse/"
+  },
+  "hospital": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "host": {
+    "whois": "whois.nic.host",
+    "rdap": "https://rdap.radix.host/rdap/"
+  },
+  "hosting": {
+    "whois": "whois.nic.hosting",
+    "rdap": "https://rdap.centralnic.com/hosting/"
+  },
+  "hot": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/hot/"
+  },
+  "hotels": {
+    "whois": "whois.nic.hotels",
+    "rdap": "https://rdap.nic.hotels/"
+  },
+  "hotmail": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/hotmail/"
+  },
+  "house": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "how": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "hr": {
+    "whois": "whois.dns.hr",
+    "rdap": null
+  },
+  "hsbc": {
+    "whois": null,
+    "rdap": "https://rdap.nic.hsbc/"
+  },
+  "ht": {
+    "whois": "whois.nic.ht",
+    "rdap": "https://rdap.nic.ht/"
+  },
+  "hu": {
+    "whois": "whois.nic.hu",
+    "rdap": null
+  },
+  "hughes": {
+    "whois": "whois.nic.hughes",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "hyatt": {
+    "whois": null,
+    "rdap": "https://rdap.nic.hyatt/"
+  },
+  "hyundai": {
+    "whois": "whois.nic.hyundai",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "ibm": {
+    "whois": "whois.nic.ibm",
+    "rdap": "https://rdap.nic.ibm/"
+  },
+  "icbc": {
+    "whois": "whois.nic.icbc",
+    "rdap": "https://rdap.zdnsgtld.com/icbc/"
+  },
+  "ice": {
+    "whois": "whois.nic.ice",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "icu": {
+    "whois": "whois.nic.icu",
+    "rdap": "https://rdap.centralnic.com/icu/"
+  },
+  "id": {
+    "whois": "whois.id",
+    "rdap": "https://rdap.pandi.id/rdap/"
+  },
+  "ie": {
+    "whois": "whois.weare.ie",
+    "rdap": null
+  },
+  "ieee": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/ieee/"
+  },
+  "ifm": {
+    "whois": "whois.nic.ifm",
+    "rdap": "https://rdap.nic.ifm/"
+  },
+  "ikano": {
+    "whois": "whois.nic.ikano",
+    "rdap": "https://rdap.nic.ikano/v1/"
+  },
+  "il": {
+    "whois": "whois.isoc.org.il",
+    "rdap": null
+  },
+  "im": {
+    "whois": "whois.nic.im",
+    "rdap": null
+  },
+  "imamat": {
+    "whois": "whois.nic.imamat",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "imdb": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/imdb/"
+  },
+  "immo": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "immobilien": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "in": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": "https://rdap.nixiregistry.in/rdap/"
+  },
+  "inc": {
+    "whois": "whois.nic.inc",
+    "rdap": "https://rdap.centralnic.com/inc/"
+  },
+  "industries": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "infiniti": {
+    "whois": "whois.nic.gmo",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "info": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ing": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "ink": {
+    "whois": "whois.nic.ink",
+    "rdap": "https://rdap.nic.ink/"
+  },
+  "institute": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "insurance": {
+    "whois": "whois.nic.insurance",
+    "rdap": "https://rdap.nic.insurance/"
+  },
+  "insure": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "int": {
+    "whois": "whois.iana.org",
+    "rdap": "https://rdap.iana.org/"
+  },
+  "international": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "intuit": {
+    "whois": null,
+    "rdap": "https://rdap.nic.intuit/"
+  },
+  "investments": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "io": {
+    "whois": "whois.nic.io",
+    "rdap": null
+  },
+  "ipiranga": {
+    "whois": null,
+    "rdap": "https://rdap.nic.ipiranga/"
+  },
+  "iq": {
+    "whois": "whois.cmc.iq",
+    "rdap": null
+  },
+  "ir": {
+    "whois": "whois.nic.ir",
+    "rdap": null
+  },
+  "irish": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "is": {
+    "whois": "whois.isnic.is",
+    "rdap": "https://rdap.isnic.is/rdap/"
+  },
+  "ismaili": {
+    "whois": "whois.nic.ismaili",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ist": {
+    "whois": "whois.nic.ist",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "istanbul": {
+    "whois": "whois.nic.istanbul",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "it": {
+    "whois": "whois.nic.it",
+    "rdap": null
+  },
+  "itau": {
+    "whois": null,
+    "rdap": "https://rdap.nic.itau/"
+  },
+  "itv": {
+    "whois": "whois.nic.itv",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "jaguar": {
+    "whois": "whois.nic.jaguar",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "java": {
+    "whois": "whois.nic.java",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "jcb": {
+    "whois": "whois.nic.gmo",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "je": {
+    "whois": "whois.je",
+    "rdap": null
+  },
+  "jeep": {
+    "whois": "whois.nic.jeep",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "jetzt": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "jewelry": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "jio": {
+    "whois": "whois.nic.jio",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "jll": {
+    "whois": "whois.nic.jll",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "jm": {
+    "whois": null,
+    "rdap": null
+  },
+  "jmp": {
+    "whois": null,
+    "rdap": "https://rdap.nic.jmp/"
+  },
+  "jnj": {
+    "whois": null,
+    "rdap": "https://rdap.centralnicregistry.com/jnj/"
+  },
+  "jo": {
+    "whois": "whois.nic.net.jo",
+    "rdap": null
+  },
+  "jobs": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/jobs/"
+  },
+  "joburg": {
+    "whois": "whois.nic.joburg",
+    "rdap": "https://rdap.nic.joburg/rdap/"
+  },
+  "jot": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "joy": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/joy/"
+  },
+  "jp": {
+    "whois": "whois.jprs.jp",
+    "rdap": null
+  },
+  "jpmorgan": {
+    "whois": null,
+    "rdap": "https://rdap.nic.jpmorgan/"
+  },
+  "jprs": {
+    "whois": "whois.nic.jprs",
+    "rdap": "https://rdap.nic.jprs/rdap/"
+  },
+  "juegos": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "kaufen": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "kddi": {
+    "whois": "whois.nic.kddi",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "ke": {
+    "whois": "whois.kenic.or.ke",
+    "rdap": "https://rdap.kenic.or.ke/"
+  },
+  "kerryhotels": {
+    "whois": "whois.nic.kerryhotels",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "kerryproperties": {
+    "whois": "whois.nic.kerryproperties",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "kfh": {
+    "whois": "whois.nic.kfh",
+    "rdap": "https://rdap.registry.kfh/rdap/"
+  },
+  "kg": {
+    "whois": "whois.kg",
+    "rdap": "http://rdap.cctld.kg/"
+  },
+  "kh": {
+    "whois": null,
+    "rdap": null
+  },
+  "ki": {
+    "whois": "whois.nic.ki",
+    "rdap": null
+  },
+  "kia": {
+    "whois": "whois.nic.kia",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "kids": {
+    "whois": "whois.nic.kids",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "kim": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "kindle": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/kindle/"
+  },
+  "kitchen": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "kiwi": {
+    "whois": "whois.nic.kiwi",
+    "rdap": "https://rdap.kiwi.fury.ca/rdap/"
+  },
+  "km": {
+    "whois": null,
+    "rdap": null
+  },
+  "kn": {
+    "whois": "whois.nic.kn",
+    "rdap": null
+  },
+  "koeln": {
+    "whois": "whois.ryce-rsp.com",
+    "rdap": "https://rdap.ryce-rsp.com/rdap/"
+  },
+  "komatsu": {
+    "whois": "whois.nic.komatsu",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "kosher": {
+    "whois": "whois.nic.kosher",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "kp": {
+    "whois": null,
+    "rdap": null
+  },
+  "kpmg": {
+    "whois": null,
+    "rdap": "https://rdap.nic.kpmg/"
+  },
+  "kpn": {
+    "whois": null,
+    "rdap": "https://rdap.centralnic.com/kpn/"
+  },
+  "kr": {
+    "whois": "whois.kr",
+    "rdap": "https://rdap.nic.or.kr/"
+  },
+  "krd": {
+    "whois": "whois.nic.krd",
+    "rdap": "https://rdap.nic.krd/"
+  },
+  "kred": {
+    "whois": null,
+    "rdap": "https://rdap.centralnic.com/kred/"
+  },
+  "kuokgroup": {
+    "whois": "whois.nic.kuokgroup",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "kw": {
+    "whois": null,
+    "rdap": null
+  },
+  "ky": {
+    "whois": "whois.kyregistry.ky",
+    "rdap": "https://whois.kyregistry.ky/rdap/"
+  },
+  "kyoto": {
+    "whois": "whois.nic.kyoto",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "kz": {
+    "whois": "whois.nic.kz",
+    "rdap": null
+  },
+  "la": {
+    "whois": "whois.nic.la",
+    "rdap": null
+  },
+  "lacaixa": {
+    "whois": "whois.nic.lacaixa",
+    "rdap": "https://rdap.nic.lacaixa/"
+  },
+  "lamborghini": {
+    "whois": "whois.nic.lamborghini",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "lamer": {
+    "whois": "whois.nic.lamer",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "land": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "landrover": {
+    "whois": "whois.nic.landrover",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "lanxess": {
+    "whois": null,
+    "rdap": "https://rdap.nic.lanxess/"
+  },
+  "lasalle": {
+    "whois": "whois.nic.lasalle",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "lat": {
+    "whois": "whois.nic.lat",
+    "rdap": "https://rdap.centralnic.com/lat/"
+  },
+  "latino": {
+    "whois": "whois.nic.latino",
+    "rdap": "https://rdap.mobile-registry.com/rdap/"
+  },
+  "latrobe": {
+    "whois": "whois.nic.latrobe",
+    "rdap": "https://rdap.nic.latrobe/"
+  },
+  "law": {
+    "whois": "whois.nic.law",
+    "rdap": "https://rdap.nic.law/"
+  },
+  "lawyer": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "lb": {
+    "whois": "whois.lbdr.org.lb",
+    "rdap": "https://rdap.lbdr.org.lb/"
+  },
+  "lc": {
+    "whois": null,
+    "rdap": null
+  },
+  "lds": {
+    "whois": "whois.nic.lds",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "lease": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "leclerc": {
+    "whois": "whois.nic.leclerc",
+    "rdap": "https://rdap.nic.leclerc/"
+  },
+  "lefrak": {
+    "whois": "whois.nic.lefrak",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "legal": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "lego": {
+    "whois": "whois.nic.lego",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "lexus": {
+    "whois": "whois.nic.lexus",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "lgbt": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "li": {
+    "whois": "whois.nic.li",
+    "rdap": null
+  },
+  "lidl": {
+    "whois": "whois.nic.lidl",
+    "rdap": "https://rdap.centralnic.com/lidl/"
+  },
+  "life": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "lifeinsurance": {
+    "whois": "whois.nic.lifeinsurance",
+    "rdap": "https://rdap.nic.lifeinsurance/"
+  },
+  "lifestyle": {
+    "whois": "whois.registry.click",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "lighting": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "like": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/like/"
+  },
+  "lilly": {
+    "whois": null,
+    "rdap": "https://rdap.nic.lilly/"
+  },
+  "limited": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "limo": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "lincoln": {
+    "whois": null,
+    "rdap": "https://rdap.nic.lincoln/"
+  },
+  "link": {
+    "whois": "whois.uniregistry.net",
+    "rdap": "https://rdap.uniregistry.net/rdap/"
+  },
+  "live": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "living": {
+    "whois": "whois.registry.click",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "lk": {
+    "whois": null,
+    "rdap": null
+  },
+  "llc": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "llp": {
+    "whois": "whois.nic.llp",
+    "rdap": "https://rdap.centralnic.com/llp/"
+  },
+  "loan": {
+    "whois": "whois.nic.loan",
+    "rdap": "https://rdap.nic.loan/"
+  },
+  "loans": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "locker": {
+    "whois": "whois.nic.locker",
+    "rdap": "https://rdap.nic.locker/rdap/"
+  },
+  "locus": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/locus/"
+  },
+  "lol": {
+    "whois": "whois.nic.lol",
+    "rdap": "https://rdap.centralnic.com/lol/"
+  },
+  "london": {
+    "whois": "whois.nic.london",
+    "rdap": "https://rdap.centralnic.com/london/"
+  },
+  "lotte": {
+    "whois": "whois.nic.lotte",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "lotto": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "love": {
+    "whois": "whois.nic.love",
+    "rdap": "https://rdap.registry.love/rdap/"
+  },
+  "lpl": {
+    "whois": "whois.nic.lpl",
+    "rdap": "https://rdap.centralnic.com/lpl/"
+  },
+  "lplfinancial": {
+    "whois": "whois.nic.lplfinancial",
+    "rdap": "https://rdap.centralnic.com/lplfinancial/"
+  },
+  "lr": {
+    "whois": null,
+    "rdap": null
+  },
+  "ls": {
+    "whois": "whois.nic.ls",
+    "rdap": null
+  },
+  "lt": {
+    "whois": "whois.domreg.lt",
+    "rdap": null
+  },
+  "ltd": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ltda": {
+    "whois": "whois.nic.ltda",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "lu": {
+    "whois": "whois.dns.lu",
+    "rdap": null
+  },
+  "lundbeck": {
+    "whois": "whois.nic.lundbeck",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "luxe": {
+    "whois": "whois.nic.luxe",
+    "rdap": "https://rdap.nic.luxe/"
+  },
+  "luxury": {
+    "whois": "whois.nic.luxury",
+    "rdap": "https://rdap.centralnic.com/luxury/"
+  },
+  "lv": {
+    "whois": "whois.nic.lv",
+    "rdap": null
+  },
+  "ly": {
+    "whois": "whois.nic.ly",
+    "rdap": "https://rdap.nic.ly/"
+  },
+  "ma": {
+    "whois": "whois.registre.ma",
+    "rdap": null
+  },
+  "madrid": {
+    "whois": "whois.nic.madrid",
+    "rdap": "https://rdap.nic.madrid/"
+  },
+  "maif": {
+    "whois": "whois.nic.maif",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "maison": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "makeup": {
+    "whois": "whois.nic.makeup",
+    "rdap": "https://rdap.centralnic.com/makeup/"
+  },
+  "man": {
+    "whois": "whois.nic.man",
+    "rdap": "https://rdap.nic.man/"
+  },
+  "management": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "mango": {
+    "whois": "whois.nic.mango",
+    "rdap": "https://rdap.nic.mango/"
+  },
+  "map": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "market": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "marketing": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "markets": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "marriott": {
+    "whois": "whois.nic.marriott",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "marshalls": {
+    "whois": null,
+    "rdap": "https://rdap.nic.marshalls/"
+  },
+  "mattel": {
+    "whois": null,
+    "rdap": "https://rdap.nic.mattel/"
+  },
+  "mba": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "mc": {
+    "whois": "whois.nic.mc",
+    "rdap": null
+  },
+  "mckinsey": {
+    "whois": "whois.nic.mckinsey",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "md": {
+    "whois": "whois.nic.md",
+    "rdap": null
+  },
+  "me": {
+    "whois": "whois.nic.me",
+    "rdap": null
+  },
+  "med": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/med/"
+  },
+  "media": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "meet": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "melbourne": {
+    "whois": "whois.nic.melbourne",
+    "rdap": "https://rdap.nic.melbourne/"
+  },
+  "meme": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "memorial": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "men": {
+    "whois": "whois.nic.men",
+    "rdap": "https://rdap.nic.men/"
+  },
+  "menu": {
+    "whois": "whois.nic.menu",
+    "rdap": "https://rdap.nic.menu/"
+  },
+  "merck": {
+    "whois": "whois.nic.merck",
+    "rdap": "https://rdap-merck.dns.business/rdap/"
+  },
+  "merckmsd": {
+    "whois": "whois.nic.merckmsd",
+    "rdap": "https://rdap.nic.merckmsd/"
+  },
+  "mg": {
+    "whois": "whois.nic.mg",
+    "rdap": "http://rdap.nic.mg/"
+  },
+  "mh": {
+    "whois": null,
+    "rdap": null
+  },
+  "miami": {
+    "whois": "whois.nic.miami",
+    "rdap": "https://rdap.nic.miami/"
+  },
+  "microsoft": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/microsoft/"
+  },
+  "mil": {
+    "whois": null,
+    "rdap": null
+  },
+  "mini": {
+    "whois": "whois.nic.mini",
+    "rdap": "https://rdap.centralnic.com/mini/"
+  },
+  "mint": {
+    "whois": null,
+    "rdap": "https://rdap.nic.mint/"
+  },
+  "mit": {
+    "whois": "whois.nic.mit",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "mitsubishi": {
+    "whois": "whois.nic.gmo",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "mk": {
+    "whois": "whois.marnet.mk",
+    "rdap": null
+  },
+  "ml": {
+    "whois": "whois.nic.ml",
+    "rdap": "https://rdap.nic.ml/"
+  },
+  "mlb": {
+    "whois": null,
+    "rdap": "https://rdap.nic.mlb/"
+  },
+  "mls": {
+    "whois": "whois.nic.mls",
+    "rdap": "https://rdap.mls.fury.ca/rdap/"
+  },
+  "mm": {
+    "whois": "whois.registry.gov.mm",
+    "rdap": null
+  },
+  "mma": {
+    "whois": "whois.nic.mma",
+    "rdap": "https://rdap.nic.mma/"
+  },
+  "mn": {
+    "whois": "whois.nic.mn",
+    "rdap": null
+  },
+  "mo": {
+    "whois": "whois.monic.mo",
+    "rdap": null
+  },
+  "mobi": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "mobile": {
+    "whois": "whois.nic.mobile",
+    "rdap": "https://rdap.mobile-registry.com/rdap/"
+  },
+  "moda": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "moe": {
+    "whois": "whois.nic.moe",
+    "rdap": "https://rdap.nic.moe/"
+  },
+  "moi": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/moi/"
+  },
+  "mom": {
+    "whois": "whois.nic.mom",
+    "rdap": "https://rdap.centralnic.com/mom/"
+  },
+  "monash": {
+    "whois": "whois.nic.monash",
+    "rdap": "https://rdap.nic.monash/"
+  },
+  "money": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "monster": {
+    "whois": "whois.nic.monster",
+    "rdap": "https://rdap.centralnic.com/monster/"
+  },
+  "mormon": {
+    "whois": "whois.nic.mormon",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "mortgage": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "moscow": {
+    "whois": "whois.nic.moscow",
+    "rdap": "https://rdap.flexireg.net/"
+  },
+  "moto": {
+    "whois": "whois.nic.moto",
+    "rdap": "https://rdap.nic.moto/"
+  },
+  "motorcycles": {
+    "whois": "whois.nic.motorcycles",
+    "rdap": "https://rdap.centralnic.com/motorcycles/"
+  },
+  "mov": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "movie": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "mp": {
+    "whois": null,
+    "rdap": null
+  },
+  "mq": {
+    "whois": "whois.mediaserv.net",
+    "rdap": null
+  },
+  "mr": {
+    "whois": "whois.nic.mr",
+    "rdap": null
+  },
+  "ms": {
+    "whois": "whois.nic.ms",
+    "rdap": "https://rdap.nic.ms/"
+  },
+  "msd": {
+    "whois": "whois.nic.msd",
+    "rdap": "https://rdap.nic.msd/"
+  },
+  "mt": {
+    "whois": null,
+    "rdap": null
+  },
+  "mtn": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/mtn/"
+  },
+  "mtr": {
+    "whois": "whois.nic.mtr",
+    "rdap": "https://whois.nic.mtr/rdap/"
+  },
+  "mu": {
+    "whois": "whois.tld.mu",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "museum": {
+    "whois": "whois.nic.museum",
+    "rdap": "https://rdap.nic.museum/"
+  },
+  "music": {
+    "whois": "whois.registryservices.music",
+    "rdap": "https://rdap.registryservices.music/rdap/"
+  },
+  "mv": {
+    "whois": null,
+    "rdap": null
+  },
+  "mw": {
+    "whois": "whois.nic.mw",
+    "rdap": null
+  },
+  "mx": {
+    "whois": "whois.mx",
+    "rdap": null
+  },
+  "my": {
+    "whois": "whois.mynic.my",
+    "rdap": null
+  },
+  "mz": {
+    "whois": "whois.nic.mz",
+    "rdap": null
+  },
+  "na": {
+    "whois": null,
+    "rdap": "https://keetmans.omadhina.co.na/"
+  },
+  "nab": {
+    "whois": "whois.nic.nab",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "nagoya": {
+    "whois": "whois.nic.nagoya",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "name": {
+    "whois": "whois.nic.name",
+    "rdap": "https://tld-rdap.verisign.com/name/v1/"
+  },
+  "navy": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "nba": {
+    "whois": null,
+    "rdap": "https://rdap.nic.nba/"
+  },
+  "nc": {
+    "whois": "whois.nc",
+    "rdap": null
+  },
+  "ne": {
+    "whois": null,
+    "rdap": null
+  },
+  "nec": {
+    "whois": "whois.nic.nec",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "net": {
+    "whois": "whois.verisign-grs.com",
+    "rdap": "https://rdap.verisign.com/net/v1/"
+  },
+  "netbank": {
+    "whois": "whois.nic.netbank",
+    "rdap": "https://rdap.nic.netbank/"
+  },
+  "netflix": {
+    "whois": null,
+    "rdap": "https://rdap.nic.netflix/"
+  },
+  "network": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "neustar": {
+    "whois": null,
+    "rdap": "https://rdap.nic.neustar/"
+  },
+  "new": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "news": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "next": {
+    "whois": "whois.nic.next",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "nextdirect": {
+    "whois": "whois.nic.nextdirect",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "nexus": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "nf": {
+    "whois": "whois.nic.nf",
+    "rdap": "https://rdap.nic.nf/"
+  },
+  "nfl": {
+    "whois": null,
+    "rdap": "https://rdap.nic.nfl/"
+  },
+  "ng": {
+    "whois": "whois.nic.net.ng",
+    "rdap": "https://rdap.nic.net.ng/"
+  },
+  "ngo": {
+    "whois": "whois.nic.ngo",
+    "rdap": "https://rdap.publicinterestregistry.org/rdap/"
+  },
+  "nhk": {
+    "whois": "whois.nic.nhk",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "ni": {
+    "whois": null,
+    "rdap": null
+  },
+  "nico": {
+    "whois": "whois.nic.nico",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "nike": {
+    "whois": null,
+    "rdap": "https://rdap.nic.nike/"
+  },
+  "nikon": {
+    "whois": "whois.nic.nikon",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ninja": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "nissan": {
+    "whois": "whois.nic.gmo",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "nissay": {
+    "whois": "whois.nic.nissay",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "nl": {
+    "whois": "whois.domain-registry.nl",
+    "rdap": "https://rdap.sidn.nl/"
+  },
+  "no": {
+    "whois": "whois.norid.no",
+    "rdap": "https://rdap.norid.no/"
+  },
+  "nokia": {
+    "whois": "whois.nic.nokia",
+    "rdap": "https://rdap.centralnic.com/nokia/"
+  },
+  "norton": {
+    "whois": "whois.nic.norton",
+    "rdap": "https://rdap.nic.norton/"
+  },
+  "now": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/now/"
+  },
+  "nowruz": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/nowruz/"
+  },
+  "nowtv": {
+    "whois": "whois.nic.nowtv",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "np": {
+    "whois": null,
+    "rdap": null
+  },
+  "nr": {
+    "whois": null,
+    "rdap": null
+  },
+  "nra": {
+    "whois": "whois.nic.nra",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "nrw": {
+    "whois": "whois.nic.nrw",
+    "rdap": "https://rdap.nic.nrw/"
+  },
+  "ntt": {
+    "whois": "whois.nic.ntt",
+    "rdap": "https://rdap.nic.ntt/rdap/"
+  },
+  "nu": {
+    "whois": "whois.iis.nu",
+    "rdap": null
+  },
+  "nyc": {
+    "whois": "whois.nic.nyc",
+    "rdap": "https://rdap.nic.nyc/"
+  },
+  "nz": {
+    "whois": "whois.irs.net.nz",
+    "rdap": null
+  },
+  "obi": {
+    "whois": "whois.nic.obi",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "observer": {
+    "whois": "whois.nic.observer",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "office": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/office/"
+  },
+  "okinawa": {
+    "whois": "whois.nic.okinawa",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "olayan": {
+    "whois": "whois.nic.olayan",
+    "rdap": "https://rdap.nic.olayan/"
+  },
+  "olayangroup": {
+    "whois": "whois.nic.olayangroup",
+    "rdap": "https://rdap.nic.olayangroup/"
+  },
+  "ollo": {
+    "whois": "whois.nic.ollo",
+    "rdap": "https://rdap.mobile-registry.com/rdap/"
+  },
+  "om": {
+    "whois": "whois.registry.om",
+    "rdap": null
+  },
+  "omega": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/omega/"
+  },
+  "one": {
+    "whois": "whois.nic.one",
+    "rdap": "https://rdap.nic.one/"
+  },
+  "ong": {
+    "whois": "whois.nic.ong",
+    "rdap": "https://rdap.publicinterestregistry.org/rdap/"
+  },
+  "onl": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "online": {
+    "whois": "whois.nic.online",
+    "rdap": "https://rdap.radix.host/rdap/"
+  },
+  "ooo": {
+    "whois": "whois.nic.ooo",
+    "rdap": "https://rdap.centralnic.com/ooo/"
+  },
+  "open": {
+    "whois": "whois.nic.open",
+    "rdap": "https://rdap.nic.open/"
+  },
+  "oracle": {
+    "whois": "whois.nic.oracle",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "orange": {
+    "whois": "whois.nic.orange",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "org": {
+    "whois": "whois.publicinterestregistry.org",
+    "rdap": "https://rdap.publicinterestregistry.org/rdap/"
+  },
+  "organic": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "origins": {
+    "whois": "whois.nic.origins",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "osaka": {
+    "whois": "whois.nic.osaka",
+    "rdap": "https://rdap.nic.osaka/"
+  },
+  "otsuka": {
+    "whois": "whois.nic.otsuka",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "ott": {
+    "whois": "whois.nic.ott",
+    "rdap": "https://rdap.mobile-registry.com/rdap/"
+  },
+  "ovh": {
+    "whois": "whois.nic.ovh",
+    "rdap": "https://rdap.nic.ovh/"
+  },
+  "pa": {
+    "whois": null,
+    "rdap": null
+  },
+  "page": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "panasonic": {
+    "whois": "whois.nic.gmo",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "paris": {
+    "whois": "whois.nic.paris",
+    "rdap": "https://rdap.nic.paris/"
+  },
+  "pars": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/pars/"
+  },
+  "partners": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "parts": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "party": {
+    "whois": "whois.nic.party",
+    "rdap": "https://rdap.nic.party/"
+  },
+  "pay": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/pay/"
+  },
+  "pccw": {
+    "whois": "whois.nic.pccw",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "pe": {
+    "whois": "kero.yachay.pe",
+    "rdap": null
+  },
+  "pet": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "pf": {
+    "whois": "whois.registry.pf",
+    "rdap": null
+  },
+  "pfizer": {
+    "whois": null,
+    "rdap": "https://rdap.nic.pfizer/"
+  },
+  "pg": {
+    "whois": "whois.nic.pg",
+    "rdap": "https://rdap.nic.pg/"
+  },
+  "ph": {
+    "whois": null,
+    "rdap": null
+  },
+  "pharmacy": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/pharmacy/"
+  },
+  "phd": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "philips": {
+    "whois": "whois.nic.philips",
+    "rdap": "https://rdap.nic.philips/"
+  },
+  "phone": {
+    "whois": "whois.nic.phone",
+    "rdap": "https://rdap.mobile-registry.com/rdap/"
+  },
+  "photo": {
+    "whois": "whois.nic.photo",
+    "rdap": "https://rdap.nic.photo/"
+  },
+  "photography": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "photos": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "physio": {
+    "whois": "whois.nic.physio",
+    "rdap": "https://rdap.nic.physio/"
+  },
+  "pics": {
+    "whois": "whois.nic.pics",
+    "rdap": "https://rdap.centralnic.com/pics/"
+  },
+  "pictet": {
+    "whois": "whois.nic.pictet",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "pictures": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "pid": {
+    "whois": "whois.registry.click",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "pin": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/pin/"
+  },
+  "ping": {
+    "whois": "whois.nic.ping",
+    "rdap": "https://rdap.nic.ping/"
+  },
+  "pink": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "pioneer": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/pioneer/"
+  },
+  "pizza": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "pk": {
+    "whois": "whois.pknic.net.pk",
+    "rdap": null
+  },
+  "pl": {
+    "whois": "whois.dns.pl",
+    "rdap": "https://rdap.dns.pl/"
+  },
+  "place": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "play": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "playstation": {
+    "whois": "whois.nic.playstation",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "plumbing": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "plus": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "pm": {
+    "whois": "whois.nic.pm",
+    "rdap": "https://rdap.nic.pm/"
+  },
+  "pn": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/pn/"
+  },
+  "pnc": {
+    "whois": "whois.nic.pnc",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "pohl": {
+    "whois": "whois.nic.pohl",
+    "rdap": "https://rdap.centralnic.com/pohl/"
+  },
+  "poker": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "politie": {
+    "whois": "whois.nic.politie",
+    "rdap": "https://rdap.nic.politie/"
+  },
+  "porn": {
+    "whois": "whois.nic.porn",
+    "rdap": "https://rdap.nic.porn/"
+  },
+  "post": {
+    "whois": "whois.nic.post",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "pr": {
+    "whois": "whois.afilias-srs.net",
+    "rdap": null
+  },
+  "praxi": {
+    "whois": null,
+    "rdap": "https://rdap.nic.praxi/"
+  },
+  "press": {
+    "whois": "whois.nic.press",
+    "rdap": "https://rdap.radix.host/rdap/"
+  },
+  "prime": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/prime/"
+  },
+  "pro": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "prod": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "productions": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "prof": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "progressive": {
+    "whois": "whois.nic.progressive",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "promo": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "properties": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "property": {
+    "whois": "whois.registry.click",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "protection": {
+    "whois": "whois.nic.protection",
+    "rdap": "https://rdap.centralnic.com/protection/"
+  },
+  "pru": {
+    "whois": null,
+    "rdap": "https://rdap.nic.pru/"
+  },
+  "prudential": {
+    "whois": null,
+    "rdap": "https://rdap.nic.prudential/"
+  },
+  "ps": {
+    "whois": null,
+    "rdap": null
+  },
+  "pt": {
+    "whois": "whois.dns.pt",
+    "rdap": null
+  },
+  "pub": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "pw": {
+    "whois": "whois.nic.pw",
+    "rdap": "https://rdap.radix.host/rdap/"
+  },
+  "pwc": {
+    "whois": "whois.nic.pwc",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "py": {
+    "whois": null,
+    "rdap": null
+  },
+  "qa": {
+    "whois": "whois.registry.qa",
+    "rdap": null
+  },
+  "qpon": {
+    "whois": "whois.nic.qpon",
+    "rdap": "https://rdap.centralnic.com/qpon/"
+  },
+  "quebec": {
+    "whois": "whois.nic.quebec",
+    "rdap": "https://rdap.nic.quebec/"
+  },
+  "quest": {
+    "whois": "whois.nic.quest",
+    "rdap": "https://rdap.centralnic.com/quest/"
+  },
+  "racing": {
+    "whois": "whois.nic.racing",
+    "rdap": "https://rdap.nic.racing/"
+  },
+  "radio": {
+    "whois": "whois.nic.radio",
+    "rdap": "https://rdap.centralnic.com/radio/"
+  },
+  "re": {
+    "whois": "whois.nic.re",
+    "rdap": "https://rdap.nic.re/"
+  },
+  "read": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/read/"
+  },
+  "realestate": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/realestate/"
+  },
+  "realtor": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/realtor/"
+  },
+  "realty": {
+    "whois": "whois.nic.realty",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "recipes": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "red": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "redumbrella": {
+    "whois": "whois.nic.redumbrella",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "rehab": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "reise": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "reisen": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "reit": {
+    "whois": "whois.nic.reit",
+    "rdap": "https://rdap.centralnic.com/reit/"
+  },
+  "reliance": {
+    "whois": "whois.nic.reliance",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ren": {
+    "whois": "whois.nic.ren",
+    "rdap": "https://rdap.zdnsgtld.com/ren/"
+  },
+  "rent": {
+    "whois": "whois.nic.rent",
+    "rdap": "https://rdap.centralnic.com/rent/"
+  },
+  "rentals": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "repair": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "report": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "republican": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "rest": {
+    "whois": "whois.nic.rest",
+    "rdap": "https://rdap.registry.bar/rdap/"
+  },
+  "restaurant": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "review": {
+    "whois": "whois.nic.review",
+    "rdap": "https://rdap.nic.review/"
+  },
+  "reviews": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "rexroth": {
+    "whois": "whois.nic.rexroth",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "rich": {
+    "whois": "whois.nic.rich",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "richardli": {
+    "whois": "whois.nic.richardli",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ricoh": {
+    "whois": "whois.nic.ricoh",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "ril": {
+    "whois": "whois.nic.ril",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "rio": {
+    "whois": null,
+    "rdap": "https://rdap.gtlds.nic.br/"
+  },
+  "rip": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ro": {
+    "whois": "whois.rotld.ro",
+    "rdap": null
+  },
+  "rocks": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "rodeo": {
+    "whois": "whois.nic.rodeo",
+    "rdap": "https://rdap.nic.rodeo/"
+  },
+  "rogers": {
+    "whois": "whois.nic.rogers",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "room": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/room/"
+  },
+  "rs": {
+    "whois": "whois.rnids.rs",
+    "rdap": null
+  },
+  "rsvp": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "ru": {
+    "whois": "whois.tcinet.ru",
+    "rdap": null
+  },
+  "rugby": {
+    "whois": "whois.nic.rugby",
+    "rdap": "https://rdap.nic.rugby/"
+  },
+  "ruhr": {
+    "whois": "whois.nic.ruhr",
+    "rdap": "https://rdap.centralnic.com/ruhr/"
+  },
+  "run": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "rw": {
+    "whois": "whois.ricta.org.rw",
+    "rdap": "https://rdap.ricta.org.rw/"
+  },
+  "rwe": {
+    "whois": "whois.nic.rwe",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ryukyu": {
+    "whois": "whois.nic.ryukyu",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "sa": {
+    "whois": "whois.nic.net.sa",
+    "rdap": null
+  },
+  "saarland": {
+    "whois": "whois.nic.saarland",
+    "rdap": "https://rdap.centralnic.com/saarland/"
+  },
+  "safe": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/safe/"
+  },
+  "safety": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "sakura": {
+    "whois": "whois.nic.sakura",
+    "rdap": "https://rdap.nic.sakura/rdap/"
+  },
+  "sale": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "salon": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "samsclub": {
+    "whois": "whois.nic.samsclub",
+    "rdap": "https://rdap.nic.samsclub/"
+  },
+  "samsung": {
+    "whois": "whois.nic.samsung",
+    "rdap": "https://nic.samsung/rdap/"
+  },
+  "sandvik": {
+    "whois": "whois.nic.sandvik",
+    "rdap": "https://rdap.nic.sandvik/"
+  },
+  "sandvikcoromant": {
+    "whois": "whois.nic.sandvikcoromant",
+    "rdap": "https://rdap.nic.sandvikcoromant/"
+  },
+  "sanofi": {
+    "whois": "whois.nic.sanofi",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "sap": {
+    "whois": "whois.nic.sap",
+    "rdap": "https://rdap.nic.sap/"
+  },
+  "sarl": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "sas": {
+    "whois": null,
+    "rdap": "https://rdap.nic.sas/"
+  },
+  "save": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/save/"
+  },
+  "saxo": {
+    "whois": "whois.nic.saxo",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "sb": {
+    "whois": "whois.nic.net.sb",
+    "rdap": null
+  },
+  "sbi": {
+    "whois": "whois.nic.sbi",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "sbs": {
+    "whois": "whois.nic.sbs",
+    "rdap": "https://rdap.centralnic.com/sbs/"
+  },
+  "sc": {
+    "whois": "whois.nic.sc",
+    "rdap": null
+  },
+  "scb": {
+    "whois": "whois.nic.scb",
+    "rdap": "https://rdap.nic.scb/"
+  },
+  "schaeffler": {
+    "whois": "whois.afilias-srs.net",
+    "rdap": "https://rdap.nic.schaeffler/"
+  },
+  "schmidt": {
+    "whois": "whois.nic.schmidt",
+    "rdap": "https://rdap.nic.schmidt/"
+  },
+  "scholarships": {
+    "whois": "whois.nic.scholarships",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "school": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "schule": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "schwarz": {
+    "whois": "whois.nic.schwarz",
+    "rdap": "https://rdap.centralnic.com/schwarz/"
+  },
+  "science": {
+    "whois": "whois.nic.science",
+    "rdap": "https://rdap.nic.science/"
+  },
+  "scot": {
+    "whois": "whois.nic.scot",
+    "rdap": "https://rdap.nic.scot/"
+  },
+  "sd": {
+    "whois": "whois.nic.sd",
+    "rdap": "https://rdap.nic.sd/"
+  },
+  "se": {
+    "whois": "whois.iis.se",
+    "rdap": null
+  },
+  "search": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "seat": {
+    "whois": "whois.nic.seat",
+    "rdap": "https://rdap.nic.seat/"
+  },
+  "secure": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/secure/"
+  },
+  "security": {
+    "whois": "whois.nic.security",
+    "rdap": "https://rdap.centralnic.com/security/"
+  },
+  "seek": {
+    "whois": "whois.nic.seek",
+    "rdap": "https://rdap.nic.seek/"
+  },
+  "select": {
+    "whois": "whois.nic.select",
+    "rdap": "https://rdap.nic.select/"
+  },
+  "sener": {
+    "whois": "whois.nic.rwe",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "services": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "seven": {
+    "whois": "whois.nic.seven",
+    "rdap": "https://rdap.nic.seven/"
+  },
+  "sew": {
+    "whois": "whois.nic.sew",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "sex": {
+    "whois": "whois.nic.sex",
+    "rdap": "https://rdap.nic.sex/"
+  },
+  "sexy": {
+    "whois": "whois.registry.click",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "sfr": {
+    "whois": "whois.nic.sfr",
+    "rdap": "https://rdap.centralnic.com/sfr/"
+  },
+  "sg": {
+    "whois": "whois.sgnic.sg",
+    "rdap": "https://rdap.sgnic.sg/rdap/"
+  },
+  "sh": {
+    "whois": "whois.nic.sh",
+    "rdap": null
+  },
+  "shangrila": {
+    "whois": "whois.nic.shangrila",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "sharp": {
+    "whois": "whois.nic.gmo",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "shell": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/shell/"
+  },
+  "shia": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/shia/"
+  },
+  "shiksha": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "shoes": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "shop": {
+    "whois": "whois.nic.shop",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "shopping": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "shouji": {
+    "whois": "whois.teleinfo.cn",
+    "rdap": "https://rdap.teleinfo.cn/"
+  },
+  "show": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "si": {
+    "whois": "whois.register.si",
+    "rdap": "https://rdap.register.si/"
+  },
+  "silk": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/silk/"
+  },
+  "sina": {
+    "whois": "whois.nic.sina",
+    "rdap": "https://rdap.ngtld.cn/"
+  },
+  "singles": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "site": {
+    "whois": "whois.nic.site",
+    "rdap": "https://rdap.radix.host/rdap/"
+  },
+  "sj": {
+    "whois": null,
+    "rdap": null
+  },
+  "sk": {
+    "whois": "whois.sk-nic.sk",
+    "rdap": null
+  },
+  "ski": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "skin": {
+    "whois": "whois.nic.skin",
+    "rdap": "https://rdap.centralnic.com/skin/"
+  },
+  "sky": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/sky/"
+  },
+  "skype": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/skype/"
+  },
+  "sl": {
+    "whois": null,
+    "rdap": null
+  },
+  "sling": {
+    "whois": "whois.nic.sling",
+    "rdap": "https://rdap.mobile-registry.com/rdap/"
+  },
+  "sm": {
+    "whois": "whois.nic.sm",
+    "rdap": null
+  },
+  "smart": {
+    "whois": "whois.nic.smart",
+    "rdap": "https://rdap.centralnic.com/smart/"
+  },
+  "smile": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/smile/"
+  },
+  "sn": {
+    "whois": "whois.nic.sn",
+    "rdap": "https://rdap.nic.sn/whois43/"
+  },
+  "sncf": {
+    "whois": "whois.nic.sncf",
+    "rdap": "https://rdap.nic.sncf/"
+  },
+  "so": {
+    "whois": "whois.nic.so",
+    "rdap": null
+  },
+  "soccer": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "social": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "softbank": {
+    "whois": "whois.nic.softbank",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "software": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "sohu": {
+    "whois": null,
+    "rdap": "https://rdap.zdnsgtld.com/sohu/"
+  },
+  "solar": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "solutions": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "song": {
+    "whois": "whois.nic.song",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "sony": {
+    "whois": "whois.nic.sony",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "soy": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "spa": {
+    "whois": "whois.nic.spa",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "space": {
+    "whois": "whois.nic.space",
+    "rdap": "https://rdap.radix.host/rdap/"
+  },
+  "sport": {
+    "whois": "whois.nic.sport",
+    "rdap": "https://rdap.nic.sport/"
+  },
+  "spot": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/spot/"
+  },
+  "sr": {
+    "whois": "whois.sr",
+    "rdap": "https://whois.sr/rdap/"
+  },
+  "srl": {
+    "whois": "whois.nic.srl",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ss": {
+    "whois": "whois.nic.ss",
+    "rdap": "https://rdap.nic.ss/"
+  },
+  "st": {
+    "whois": "whois.nic.st",
+    "rdap": null
+  },
+  "stada": {
+    "whois": "whois.nic.stada",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "staples": {
+    "whois": null,
+    "rdap": "https://rdap.nic.staples/"
+  },
+  "star": {
+    "whois": "whois.nic.star",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "statebank": {
+    "whois": "whois.nic.statebank",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "statefarm": {
+    "whois": null,
+    "rdap": "https://rdap.nic.statefarm/"
+  },
+  "stc": {
+    "whois": "whois.nic.stc",
+    "rdap": "https://rdap.centralnic.com/stc/"
+  },
+  "stcgroup": {
+    "whois": "whois.nic.stcgroup",
+    "rdap": "https://rdap.centralnic.com/stcgroup/"
+  },
+  "stockholm": {
+    "whois": "whois.nic.stockholm",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "storage": {
+    "whois": "whois.nic.storage",
+    "rdap": "https://rdap.centralnic.com/storage/"
+  },
+  "store": {
+    "whois": "whois.nic.store",
+    "rdap": "https://rdap.radix.host/rdap/"
+  },
+  "stream": {
+    "whois": "whois.nic.stream",
+    "rdap": "https://rdap.nic.stream/"
+  },
+  "studio": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "study": {
+    "whois": "whois.nic.study",
+    "rdap": "https://rdap.nic.study/"
+  },
+  "style": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "su": {
+    "whois": "whois.tcinet.ru",
+    "rdap": null
+  },
+  "sucks": {
+    "whois": "whois.nic.sucks",
+    "rdap": "https://rdap.nic.sucks/"
+  },
+  "supplies": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "supply": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "support": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "surf": {
+    "whois": "whois.nic.surf",
+    "rdap": "https://rdap.nic.surf/"
+  },
+  "surgery": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "suzuki": {
+    "whois": "whois.nic.suzuki",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "sv": {
+    "whois": null,
+    "rdap": null
+  },
+  "swatch": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/swatch/"
+  },
+  "swiss": {
+    "whois": "whois.nic.swiss",
+    "rdap": "https://rdap.nic.swiss/"
+  },
+  "sx": {
+    "whois": "whois.sx",
+    "rdap": null
+  },
+  "sy": {
+    "whois": "whois.tld.sy",
+    "rdap": null
+  },
+  "sydney": {
+    "whois": "whois.nic.sydney",
+    "rdap": "https://rdap.nic.sydney/"
+  },
+  "systems": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "sz": {
+    "whois": null,
+    "rdap": null
+  },
+  "tab": {
+    "whois": "whois.nic.tab",
+    "rdap": "https://rdap.nic.tab/"
+  },
+  "taipei": {
+    "whois": "whois.nic.taipei",
+    "rdap": "https://rdap.nic.taipei/"
+  },
+  "talk": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/talk/"
+  },
+  "taobao": {
+    "whois": "whois.nic.taobao",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "target": {
+    "whois": null,
+    "rdap": "https://rdap.nic.target/"
+  },
+  "tatamotors": {
+    "whois": "whois.nic.tatamotors",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "tatar": {
+    "whois": "whois.nic.tatar",
+    "rdap": "https://whois.nic.tatar/rdap/"
+  },
+  "tattoo": {
+    "whois": "whois.nic.tattoo",
+    "rdap": "https://rdap.nic.tattoo/"
+  },
+  "tax": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "taxi": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "tc": {
+    "whois": "whois.nic.tc",
+    "rdap": null
+  },
+  "tci": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/tci/"
+  },
+  "td": {
+    "whois": "whois.nic.td",
+    "rdap": null
+  },
+  "tdk": {
+    "whois": "whois.nic.tdk",
+    "rdap": "https://rdap.nic.tdk/"
+  },
+  "team": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "tech": {
+    "whois": "whois.nic.tech",
+    "rdap": "https://rdap.radix.host/rdap/"
+  },
+  "technology": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "tel": {
+    "whois": "whois.nic.tel",
+    "rdap": "https://rdap.nic.tel/"
+  },
+  "temasek": {
+    "whois": "whois.nic.temasek",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "tennis": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "teva": {
+    "whois": "whois.nic.teva",
+    "rdap": "https://rdap.nic.teva/"
+  },
+  "tf": {
+    "whois": "whois.nic.tf",
+    "rdap": "https://rdap.nic.tf/"
+  },
+  "tg": {
+    "whois": "whois.nic.tg",
+    "rdap": null
+  },
+  "th": {
+    "whois": "whois.thnic.co.th",
+    "rdap": "https://rdap.thains.co.th/"
+  },
+  "thd": {
+    "whois": "whois.nic.thd",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "theater": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "theatre": {
+    "whois": "whois.nic.theatre",
+    "rdap": "https://rdap.centralnic.com/theatre/"
+  },
+  "tiaa": {
+    "whois": "whois.nic.tiaa",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "tickets": {
+    "whois": "whois.nic.tickets",
+    "rdap": "https://rdap.centralnic.com/tickets/"
+  },
+  "tienda": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "tips": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "tires": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "tirol": {
+    "whois": "whois.nic.tirol",
+    "rdap": "https://rdap.ryce-rsp.com/rdap/"
+  },
+  "tj": {
+    "whois": null,
+    "rdap": null
+  },
+  "tjmaxx": {
+    "whois": null,
+    "rdap": "https://rdap.nic.tjmaxx/"
+  },
+  "tjx": {
+    "whois": null,
+    "rdap": "https://rdap.nic.tjx/"
+  },
+  "tk": {
+    "whois": "whois.dot.tk",
+    "rdap": null
+  },
+  "tkmaxx": {
+    "whois": null,
+    "rdap": "https://rdap.nic.tkmaxx/"
+  },
+  "tl": {
+    "whois": "whois.nic.tl",
+    "rdap": null
+  },
+  "tm": {
+    "whois": "whois.nic.tm",
+    "rdap": null
+  },
+  "tmall": {
+    "whois": "whois.nic.tmall",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "tn": {
+    "whois": "whois.ati.tn",
+    "rdap": null
+  },
+  "to": {
+    "whois": "whois.tonicregistry.to",
+    "rdap": "https://rdap.tonicregistry.to/rdap/"
+  },
+  "today": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "tokyo": {
+    "whois": "whois.nic.tokyo",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "tools": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "top": {
+    "whois": "whois.nic.top",
+    "rdap": "https://rdap.zdnsgtld.com/top/"
+  },
+  "toray": {
+    "whois": "whois.nic.toray",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "toshiba": {
+    "whois": "whois.nic.toshiba",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "total": {
+    "whois": "whois.nic.total",
+    "rdap": "https://rdap.nic.total/"
+  },
+  "tours": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "town": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "toyota": {
+    "whois": "whois.nic.toyota",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "toys": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "tr": {
+    "whois": "whois.trabis.gov.tr",
+    "rdap": null
+  },
+  "trade": {
+    "whois": "whois.nic.trade",
+    "rdap": "https://rdap.nic.trade/"
+  },
+  "trading": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "training": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "travel": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "travelers": {
+    "whois": "whois.nic.travelers",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "travelersinsurance": {
+    "whois": "whois.nic.travelersinsurance",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "trust": {
+    "whois": "whois.registry.click",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "trv": {
+    "whois": "whois.nic.trv",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "tt": {
+    "whois": null,
+    "rdap": null
+  },
+  "tube": {
+    "whois": "whois.nic.tube",
+    "rdap": "https://rdap.nic.tube/"
+  },
+  "tui": {
+    "whois": "whois.nic.tui",
+    "rdap": "https://rdap.centralnic.com/tui/"
+  },
+  "tunes": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/tunes/"
+  },
+  "tushu": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/tushu/"
+  },
+  "tv": {
+    "whois": "whois.nic.tv",
+    "rdap": "https://rdap.nic.tv/"
+  },
+  "tvs": {
+    "whois": "whois.nic.tvs",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "tw": {
+    "whois": "whois.twnic.net.tw",
+    "rdap": "https://ccrdap.twnic.tw/tw/"
+  },
+  "tz": {
+    "whois": "whois.tznic.or.tz",
+    "rdap": "https://rdap.tznic.or.tz/"
+  },
+  "ua": {
+    "whois": "whois.ua",
+    "rdap": "https://rdap.hostmaster.ua/"
+  },
+  "ubank": {
+    "whois": "whois.nic.ubank",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ubs": {
+    "whois": "whois.nic.ubs",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ug": {
+    "whois": "whois.co.ug",
+    "rdap": null
+  },
+  "uk": {
+    "whois": "whois.nic.uk",
+    "rdap": "https://rdap.nominet.uk/uk/"
+  },
+  "unicom": {
+    "whois": "whois.nic.unicom",
+    "rdap": "https://rdap.zdnsgtld.com/unicom/"
+  },
+  "university": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "uno": {
+    "whois": "whois.nic.uno",
+    "rdap": "https://rdap.radix.host/rdap/"
+  },
+  "uol": {
+    "whois": null,
+    "rdap": "https://rdap.gtlds.nic.br/"
+  },
+  "ups": {
+    "whois": "whois.nic.ups",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "us": {
+    "whois": "whois.nic.us",
+    "rdap": null
+  },
+  "uy": {
+    "whois": "whois.nic.org.uy",
+    "rdap": null
+  },
+  "uz": {
+    "whois": "whois.cctld.uz",
+    "rdap": "https://rdap.cctld.uz/"
+  },
+  "va": {
+    "whois": null,
+    "rdap": null
+  },
+  "vacations": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "vana": {
+    "whois": "whois.registry.click",
+    "rdap": "https://rdap.registry.click/rdap/"
+  },
+  "vanguard": {
+    "whois": "whois.nic.vanguard",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "vc": {
+    "whois": "whois.identitydigital.services",
+    "rdap": null
+  },
+  "ve": {
+    "whois": "whois.nic.ve",
+    "rdap": null
+  },
+  "vegas": {
+    "whois": "whois.nic.vegas",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "ventures": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "verisign": {
+    "whois": "whois.nic.verisign",
+    "rdap": "https://tld-rdap.verisign.com/verisign/v1/"
+  },
+  "versicherung": {
+    "whois": "whois.nic.versicherung",
+    "rdap": "https://rdap.nic.versicherung/v1/"
+  },
+  "vet": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "vg": {
+    "whois": "whois.nic.vg",
+    "rdap": "https://rdap.centralnic.com/vg/"
+  },
+  "vi": {
+    "whois": "virgil.nic.vi",
+    "rdap": "https://rdap.nic.vi/"
+  },
+  "viajes": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "video": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "vig": {
+    "whois": "whois.nic.vig",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "viking": {
+    "whois": "whois.nic.viking",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "villas": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "vin": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "vip": {
+    "whois": "whois.nic.vip",
+    "rdap": "https://rdap.nic.vip/"
+  },
+  "virgin": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/virgin/"
+  },
+  "visa": {
+    "whois": "whois.nic.visa",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "vision": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "viva": {
+    "whois": "whois.nic.viva",
+    "rdap": "https://rdap.centralnic.com/viva/"
+  },
+  "vivo": {
+    "whois": null,
+    "rdap": "https://rdap.nic.vivo/"
+  },
+  "vlaanderen": {
+    "whois": null,
+    "rdap": "https://rdap.nic.vlaanderen/"
+  },
+  "vn": {
+    "whois": null,
+    "rdap": null
+  },
+  "vodka": {
+    "whois": "whois.nic.vodka",
+    "rdap": "https://rdap.nic.vodka/"
+  },
+  "volvo": {
+    "whois": "whois.nic.volvo",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "vote": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "voting": {
+    "whois": "whois.nic.voting",
+    "rdap": "https://rdap.nic.voting/"
+  },
+  "voto": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "voyage": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "vu": {
+    "whois": "whois.dnrs.vu",
+    "rdap": null
+  },
+  "wales": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/wales/"
+  },
+  "walmart": {
+    "whois": "whois.nic.walmart",
+    "rdap": "https://rdap.nic.walmart/"
+  },
+  "walter": {
+    "whois": "whois.nic.walter",
+    "rdap": "https://rdap.nic.walter/"
+  },
+  "wang": {
+    "whois": "whois.gtld.zdns.cn",
+    "rdap": "https://rdap.zdnsgtld.com/wang/"
+  },
+  "wanggou": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/wanggou/"
+  },
+  "watch": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "watches": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "weather": {
+    "whois": null,
+    "rdap": "https://rdap.nic.weather/"
+  },
+  "weatherchannel": {
+    "whois": null,
+    "rdap": "https://rdap.nic.weatherchannel/"
+  },
+  "web": {
+    "whois": null,
+    "rdap": "https://tld-rdap.verisign.com/web/v1/"
+  },
+  "webcam": {
+    "whois": "whois.nic.webcam",
+    "rdap": "https://rdap.nic.webcam/"
+  },
+  "weber": {
+    "whois": "whois.nic.weber",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "website": {
+    "whois": "whois.nic.website",
+    "rdap": "https://rdap.radix.host/rdap/"
+  },
+  "wed": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/wed/"
+  },
+  "wedding": {
+    "whois": "whois.nic.wedding",
+    "rdap": "https://rdap.nic.wedding/"
+  },
+  "weibo": {
+    "whois": "whois.nic.weibo",
+    "rdap": "https://rdap.ngtld.cn/"
+  },
+  "weir": {
+    "whois": "whois.nic.weir",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "wf": {
+    "whois": "whois.nic.wf",
+    "rdap": "https://rdap.nic.wf/"
+  },
+  "whoswho": {
+    "whois": "whois.nic.whoswho",
+    "rdap": "https://rdap.nic.whoswho/"
+  },
+  "wien": {
+    "whois": "whois.nic.wien",
+    "rdap": "https://rdap.ryce-rsp.com/rdap/"
+  },
+  "wiki": {
+    "whois": "whois.nic.wiki",
+    "rdap": "https://rdap.nic.wiki/"
+  },
+  "williamhill": {
+    "whois": null,
+    "rdap": "https://rdap.nic.williamhill/"
+  },
+  "win": {
+    "whois": "whois.nic.win",
+    "rdap": "https://rdap.nic.win/"
+  },
+  "windows": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/windows/"
+  },
+  "wine": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "winners": {
+    "whois": null,
+    "rdap": "https://rdap.nic.winners/"
+  },
+  "wme": {
+    "whois": "whois.nic.wme",
+    "rdap": "https://rdap.centralnic.com/wme/"
+  },
+  "woodside": {
+    "whois": "whois.nic.woodside",
+    "rdap": "https://rdap.nic.woodside/"
+  },
+  "work": {
+    "whois": "whois.nic.work",
+    "rdap": "https://rdap.nic.work/"
+  },
+  "works": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "world": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "wow": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/wow/"
+  },
+  "ws": {
+    "whois": "whois.website.ws",
+    "rdap": null
+  },
+  "wtc": {
+    "whois": "whois.nic.wtc",
+    "rdap": "https://rdap.nic.wtc/"
+  },
+  "wtf": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xbox": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/xbox/"
+  },
+  "xerox": {
+    "whois": "whois.nic.xerox",
+    "rdap": "https://rdap.nic.xerox/"
+  },
+  "xihuan": {
+    "whois": "whois.teleinfo.cn",
+    "rdap": "https://rdap.teleinfo.cn/"
+  },
+  "xin": {
+    "whois": "whois.nic.xin",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--11b4c3d": {
+    "whois": "whois.nic.xn--11b4c3d",
+    "rdap": "https://tld-rdap.verisign.com/xn--11b4c3d/v1/"
+  },
+  "xn--1ck2e1b": {
+    "whois": "whois.nic.xn--1ck2e1b",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--1qqw23a": {
+    "whois": "whois.ngtld.cn",
+    "rdap": "https://restwhois.ngtld.cn/"
+  },
+  "xn--2scrj9c": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": null
+  },
+  "xn--30rr7y": {
+    "whois": "whois.gtld.zdns.cn",
+    "rdap": "https://rdap.zdnsgtld.com/xn--30rr7y/"
+  },
+  "xn--3bst00m": {
+    "whois": "whois.gtld.zdns.cn",
+    "rdap": "https://rdap.zdnsgtld.com/xn--3bst00m/"
+  },
+  "xn--3ds443g": {
+    "whois": "whois.teleinfo.cn",
+    "rdap": "https://rdap.teleinfo.cn/xn--3ds443g/"
+  },
+  "xn--3e0b707e": {
+    "whois": "whois.kr",
+    "rdap": "https://rdap.nic.or.kr/"
+  },
+  "xn--3hcrj9c": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": null
+  },
+  "xn--3pxu8k": {
+    "whois": "whois.nic.xn--3pxu8k",
+    "rdap": "https://tld-rdap.verisign.com/xn--3pxu8k/v1/"
+  },
+  "xn--42c2d9a": {
+    "whois": "whois.nic.xn--42c2d9a",
+    "rdap": "https://tld-rdap.verisign.com/xn--42c2d9a/v1/"
+  },
+  "xn--45br5cyl": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": null
+  },
+  "xn--45brj9c": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": null
+  },
+  "xn--45q11c": {
+    "whois": "whois.gtld.zdns.cn",
+    "rdap": "https://rdap.zdnsgtld.com/XN--45Q11C/"
+  },
+  "xn--4dbrk0ce": {
+    "whois": "whois.isoc.org.il",
+    "rdap": null
+  },
+  "xn--4gbrim": {
+    "whois": "whois.nic.xn--4gbrim",
+    "rdap": "https://rdap.centralnic.com/xn--4gbrim/"
+  },
+  "xn--54b7fta0cc": {
+    "whois": null,
+    "rdap": null
+  },
+  "xn--55qw42g": {
+    "whois": "whois.nic.xn--55qw42g",
+    "rdap": "https://rdap.ngtld.cn/"
+  },
+  "xn--55qx5d": {
+    "whois": "whois.ngtld.cn",
+    "rdap": "https://rdap.ngtld.cn/"
+  },
+  "xn--5su34j936bgsg": {
+    "whois": "whois.nic.xn--5su34j936bgsg",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--5tzm5g": {
+    "whois": "whois.nic.xn--5tzm5g",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--6frz82g": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--6qq986b3xl": {
+    "whois": "whois.gtld.zdns.cn",
+    "rdap": "https://rdap.zdnsgtld.com/xn--6qq986b3xl/"
+  },
+  "xn--80adxhks": {
+    "whois": "whois.nic.xn--80adxhks",
+    "rdap": "https://rdap.flexireg.net/"
+  },
+  "xn--80ao21a": {
+    "whois": "whois.nic.kz",
+    "rdap": null
+  },
+  "xn--80aqecdr1a": {
+    "whois": "whois.nic.xn--80aqecdr1a",
+    "rdap": "https://rdap.nic.xn--80aqecdr1a/"
+  },
+  "xn--80asehdb": {
+    "whois": "whois.nic.xn--80asehdb",
+    "rdap": "https://rdap.nic.xn--80asehdb/"
+  },
+  "xn--80aswg": {
+    "whois": "whois.nic.xn--80aswg",
+    "rdap": "https://rdap.nic.xn--80aswg/"
+  },
+  "xn--8y0a063a": {
+    "whois": "whois.nic.xn--8y0a063a",
+    "rdap": "https://rdap.zdnsgtld.com/xn--8y0a063a/"
+  },
+  "xn--90a3ac": {
+    "whois": "whois.rnids.rs",
+    "rdap": null
+  },
+  "xn--90ae": {
+    "whois": "whois.imena.bg",
+    "rdap": null
+  },
+  "xn--90ais": {
+    "whois": "whois.cctld.by",
+    "rdap": null
+  },
+  "xn--9dbq2a": {
+    "whois": "whois.nic.xn--9dbq2a",
+    "rdap": "https://tld-rdap.verisign.com/xn--9dbq2a/v1/"
+  },
+  "xn--9et52u": {
+    "whois": "whois.gtld.zdns.cn",
+    "rdap": "https://rdap.zdnsgtld.com/xn--9et52u/"
+  },
+  "xn--9krt00a": {
+    "whois": "whois.nic.xn--9krt00a",
+    "rdap": "https://rdap.ngtld.cn/"
+  },
+  "xn--b4w605ferd": {
+    "whois": "whois.nic.xn--b4w605ferd",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--bck1b9a5dre4c": {
+    "whois": "whois.nic.xn--bck1b9a5dre4c",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--c1avg": {
+    "whois": "whois.nic.xn--c1avg",
+    "rdap": "https://rdap.publicinterestregistry.org/rdap/"
+  },
+  "xn--c2br7g": {
+    "whois": "whois.nic.xn--c2br7g",
+    "rdap": "https://tld-rdap.verisign.com/xn--c2br7g/v1/"
+  },
+  "xn--cck2b3b": {
+    "whois": "whois.nic.xn--cck2b3b",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--cckwcxetd": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/xn--cckwcxetd/"
+  },
+  "xn--cg4bki": {
+    "whois": "whois.kr",
+    "rdap": "https://nic.samsung/rdap/"
+  },
+  "xn--clchc0ea0b2g2a9gcd": {
+    "whois": "whois.ta.sgnic.sg",
+    "rdap": "https://rdap.ta.sgnic.sg/rdap/"
+  },
+  "xn--czr694b": {
+    "whois": null,
+    "rdap": "https://rdap.zdnsgtld.com/xn--czr694b/"
+  },
+  "xn--czrs0t": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--czru2d": {
+    "whois": "whois.gtld.zdns.cn",
+    "rdap": "https://rdap.zdnsgtld.com/xn--czru2d/"
+  },
+  "xn--d1acj3b": {
+    "whois": "whois.nic.xn--d1acj3b",
+    "rdap": "https://whois.nic.xn--d1acj3b/rdap/"
+  },
+  "xn--d1alf": {
+    "whois": "whois.marnet.mk",
+    "rdap": null
+  },
+  "xn--e1a4c": {
+    "whois": "whois.eu",
+    "rdap": null
+  },
+  "xn--eckvdtc9d": {
+    "whois": "whois.nic.xn--eckvdtc9d",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--efvy88h": {
+    "whois": "whois.gtld.zdns.cn",
+    "rdap": "https://rdap.zdnsgtld.com/XN--EFVY88H/"
+  },
+  "xn--fct429k": {
+    "whois": "whois.nic.xn--fct429k",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--fhbei": {
+    "whois": "whois.nic.xn--fhbei",
+    "rdap": "https://tld-rdap.verisign.com/xn--fhbei/v1/"
+  },
+  "xn--fiq228c5hs": {
+    "whois": "whois.teleinfo.cn",
+    "rdap": "https://rdap.teleinfo.cn/xn--fiq228c5hs/"
+  },
+  "xn--fiq64b": {
+    "whois": "whois.gtld.zdns.cn",
+    "rdap": "https://rdap.zdnsgtld.com/xn--fiq64b/"
+  },
+  "xn--fiqs8s": {
+    "whois": "whois.cnnic.cn",
+    "rdap": null
+  },
+  "xn--fiqz9s": {
+    "whois": "whois.cnnic.cn",
+    "rdap": null
+  },
+  "xn--fjq720a": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--flw351e": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "xn--fpcrj9c3d": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": null
+  },
+  "xn--fzc2c9e2c": {
+    "whois": null,
+    "rdap": null
+  },
+  "xn--fzys8d69uvgm": {
+    "whois": "whois.nic.xn--fzys8d69uvgm",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--g2xx48c": {
+    "whois": "whois.nic.xn--g2xx48c",
+    "rdap": "https://rdap.nic.xn--g2xx48c/"
+  },
+  "xn--gckr3f0f": {
+    "whois": "whois.nic.xn--gckr3f0f",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--gecrj9c": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": null
+  },
+  "xn--gk3at1e": {
+    "whois": "whois.nic.xn--gk3at1e",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--h2breg3eve": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": null
+  },
+  "xn--h2brj9c": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": null
+  },
+  "xn--h2brj9c8c": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": null
+  },
+  "xn--hxt814e": {
+    "whois": "whois.gtld.zdns.cn",
+    "rdap": "https://rdap.zdnsgtld.com/xn--hxt814e/"
+  },
+  "xn--i1b6b1a6a2e": {
+    "whois": "whois.nic.xn--i1b6b1a6a2e",
+    "rdap": "https://rdap.publicinterestregistry.org/rdap/"
+  },
+  "xn--imr513n": {
+    "whois": null,
+    "rdap": "https://rdap.zdnsgtld.com/xn--imr513n/"
+  },
+  "xn--io0a7i": {
+    "whois": "whois.ngtld.cn",
+    "rdap": "https://rdap.ngtld.cn/"
+  },
+  "xn--j1aef": {
+    "whois": "whois.nic.xn--j1aef",
+    "rdap": "https://tld-rdap.verisign.com/xn--j1aef/v1/"
+  },
+  "xn--j1amh": {
+    "whois": "whois.dotukr.com",
+    "rdap": null
+  },
+  "xn--j6w193g": {
+    "whois": "whois.hkirc.hk",
+    "rdap": null
+  },
+  "xn--jlq480n2rg": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/xn--jlq480n2rg/"
+  },
+  "xn--jvr189m": {
+    "whois": "whois.nic.xn--jvr189m",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--kcrx77d1x4a": {
+    "whois": "whois.nic.xn--kcrx77d1x4a",
+    "rdap": "https://rdap.nic.xn--kcrx77d1x4a/"
+  },
+  "xn--kprw13d": {
+    "whois": "whois.twnic.net.tw",
+    "rdap": null
+  },
+  "xn--kpry57d": {
+    "whois": "whois.twnic.net.tw",
+    "rdap": "https://ccrdap.twnic.tw/taiwan/"
+  },
+  "xn--kput3i": {
+    "whois": "whois.nic.xn--kput3i",
+    "rdap": "https://rdap.teleinfo.cn/xn--kput3i/"
+  },
+  "xn--l1acc": {
+    "whois": "whois.mn",
+    "rdap": null
+  },
+  "xn--lgbbat1ad8j": {
+    "whois": "whois.nic.dz",
+    "rdap": null
+  },
+  "xn--mgb9awbf": {
+    "whois": "whois.registry.om",
+    "rdap": null
+  },
+  "xn--mgba3a3ejt": {
+    "whois": null,
+    "rdap": "https://rdap.nic.xn--mgba3a3ejt/"
+  },
+  "xn--mgba3a4f16a": {
+    "whois": "whois.nic.ir",
+    "rdap": null
+  },
+  "xn--mgba7c0bbn0a": {
+    "whois": "whois.nic.xn--mgba7c0bbn0a",
+    "rdap": "https://rdap.nic.xn--mgba7c0bbn0a/"
+  },
+  "xn--mgbaam7a8h": {
+    "whois": "whois.aeda.net.ae",
+    "rdap": null
+  },
+  "xn--mgbab2bd": {
+    "whois": "whois.nic.xn--mgbab2bd",
+    "rdap": "https://rdap.nic.xn--mgbab2bd/"
+  },
+  "xn--mgbah1a3hjkrd": {
+    "whois": "whois.nic.mr",
+    "rdap": null
+  },
+  "xn--mgbai9azgqp6j": {
+    "whois": null,
+    "rdap": null
+  },
+  "xn--mgbayh7gpa": {
+    "whois": null,
+    "rdap": null
+  },
+  "xn--mgbbh1a": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": null
+  },
+  "xn--mgbbh1a71e": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": null
+  },
+  "xn--mgbc0a9azcg": {
+    "whois": null,
+    "rdap": null
+  },
+  "xn--mgbca7dzdo": {
+    "whois": "whois.nic.xn--mgbca7dzdo",
+    "rdap": "https://rdap.nic.xn--mgbca7dzdo/"
+  },
+  "xn--mgbcpq6gpa1a": {
+    "whois": "whois.bhregistry.bh",
+    "rdap": "https://rdap.bhregistry.bh/rdap/"
+  },
+  "xn--mgberp4a5d4ar": {
+    "whois": "whois.nic.net.sa",
+    "rdap": null
+  },
+  "xn--mgbgu82a": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": null
+  },
+  "xn--mgbi4ecexp": {
+    "whois": "whois.nic.xn--mgbi4ecexp",
+    "rdap": "https://rdap.nic.xn--mgbi4ecexp/"
+  },
+  "xn--mgbpl2fh": {
+    "whois": null,
+    "rdap": null
+  },
+  "xn--mgbt3dhd": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/xn--mgbt3dhd/"
+  },
+  "xn--mgbtx2b": {
+    "whois": "whois.cmc.iq",
+    "rdap": null
+  },
+  "xn--mgbx4cd0ab": {
+    "whois": "whois.mynic.my",
+    "rdap": null
+  },
+  "xn--mix891f": {
+    "whois": "whois.monic.mo",
+    "rdap": null
+  },
+  "xn--mk1bu44c": {
+    "whois": "whois.nic.xn--mk1bu44c",
+    "rdap": "https://tld-rdap.verisign.com/xn--mk1bu44c/v1/"
+  },
+  "xn--mxtq1m": {
+    "whois": "whois.nic.xn--mxtq1m",
+    "rdap": "https://rdap.twnic.tw/rdap/"
+  },
+  "xn--ngbc5azd": {
+    "whois": "whois.nic.xn--ngbc5azd",
+    "rdap": "https://rdap.nic.xn--ngbc5azd/"
+  },
+  "xn--ngbe9e0a": {
+    "whois": "whois.nic.xn--ngbe9e0a",
+    "rdap": "https://rdap.registry.kfh/rdap/"
+  },
+  "xn--ngbrx": {
+    "whois": "whois.nic.xn--ngbrx",
+    "rdap": "https://rdap.nic.xn--ngbrx/"
+  },
+  "xn--node": {
+    "whois": null,
+    "rdap": null
+  },
+  "xn--nqv7f": {
+    "whois": "whois.nic.xn--nqv7f",
+    "rdap": "https://rdap.publicinterestregistry.org/rdap/"
+  },
+  "xn--nqv7fs00ema": {
+    "whois": "whois.nic.xn--nqv7fs00ema",
+    "rdap": "https://rdap.publicinterestregistry.org/rdap/"
+  },
+  "xn--nyqy26a": {
+    "whois": null,
+    "rdap": "https://rdap.teleinfo.cn/xn--nyqy26a/"
+  },
+  "xn--o3cw4h": {
+    "whois": "whois.thnic.co.th",
+    "rdap": "https://rdap.thains.co.th/"
+  },
+  "xn--ogbpf8fl": {
+    "whois": "whois.tld.sy",
+    "rdap": null
+  },
+  "xn--otu796d": {
+    "whois": null,
+    "rdap": "https://rdap.zdnsgtld.com/xn--otu796d/"
+  },
+  "xn--p1acf": {
+    "whois": null,
+    "rdap": "https://rdap.nic.xn--p1acf/"
+  },
+  "xn--p1ai": {
+    "whois": "whois.tcinet.ru",
+    "rdap": null
+  },
+  "xn--pgbs0dh": {
+    "whois": "whois.ati.tn",
+    "rdap": null
+  },
+  "xn--pssy2u": {
+    "whois": "whois.nic.xn--pssy2u",
+    "rdap": "https://tld-rdap.verisign.com/xn--pssy2u/v1/"
+  },
+  "xn--q7ce6a": {
+    "whois": "whois.nic.la",
+    "rdap": null
+  },
+  "xn--q9jyb4c": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "xn--qcka1pmc": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "xn--qxa6a": {
+    "whois": "whois.eu",
+    "rdap": null
+  },
+  "xn--qxam": {
+    "whois": null,
+    "rdap": null
+  },
+  "xn--rhqv96g": {
+    "whois": null,
+    "rdap": "https://rdap.teleinfo.cn/xn--rhqv96g/"
+  },
+  "xn--rovu88b": {
+    "whois": "whois.nic.xn--rovu88b",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--rvc1e0am3e": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": null
+  },
+  "xn--s9brj9c": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": null
+  },
+  "xn--ses554g": {
+    "whois": "whois.nic.xn--ses554g",
+    "rdap": "https://rdap.zdnsgtld.com/xn--ses554g/"
+  },
+  "xn--t60b56a": {
+    "whois": "whois.nic.xn--t60b56a",
+    "rdap": "https://tld-rdap.verisign.com/xn--t60b56a/v1/"
+  },
+  "xn--tckwe": {
+    "whois": "whois.nic.xn--tckwe",
+    "rdap": "https://tld-rdap.verisign.com/xn--tckwe/v1/"
+  },
+  "xn--tiq49xqyj": {
+    "whois": "whois.nic.xn--tiq49xqyj",
+    "rdap": "https://rdap.nic.xn--tiq49xqyj/"
+  },
+  "xn--unup4y": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--vermgensberater-ctb": {
+    "whois": "whois.nic.xn--vermgensberater-ctb",
+    "rdap": "https://rdap.centralnic.com/xn--vermgensberater-ctb/"
+  },
+  "xn--vermgensberatung-pwb": {
+    "whois": "whois.nic.xn--vermgensberatung-pwb",
+    "rdap": "https://rdap.centralnic.com/xn--vermgensberatung-pwb/"
+  },
+  "xn--vhquv": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--vuq861b": {
+    "whois": "whois.teleinfo.cn",
+    "rdap": "https://rdap.teleinfo.cn/"
+  },
+  "xn--w4r85el8fhu5dnra": {
+    "whois": "whois.nic.xn--w4r85el8fhu5dnra",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--w4rs40l": {
+    "whois": "whois.nic.xn--w4rs40l",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "xn--wgbh1c": {
+    "whois": null,
+    "rdap": null
+  },
+  "xn--wgbl6a": {
+    "whois": "whois.registry.qa",
+    "rdap": null
+  },
+  "xn--xhq521b": {
+    "whois": "whois.ngtld.cn",
+    "rdap": "https://restwhois.ngtld.cn/"
+  },
+  "xn--xkc2al3hye2a": {
+    "whois": null,
+    "rdap": null
+  },
+  "xn--xkc2dl3a5ee0h": {
+    "whois": "whois.nixiregistry.in",
+    "rdap": null
+  },
+  "xn--y9a3aq": {
+    "whois": "whois.amnic.net",
+    "rdap": null
+  },
+  "xn--yfro4i67o": {
+    "whois": "whois.zh.sgnic.sg",
+    "rdap": "https://rdap.zh.sgnic.sg/rdap/"
+  },
+  "xn--ygbi2ammx": {
+    "whois": "whois.pnina.ps",
+    "rdap": null
+  },
+  "xn--zfr164b": {
+    "whois": "whois.nic.xn--zfr164b",
+    "rdap": "https://rdap.ngtld.cn/"
+  },
+  "xxx": {
+    "whois": "whois.nic.xxx",
+    "rdap": "https://rdap.nic.xxx/"
+  },
+  "xyz": {
+    "whois": "whois.nic.xyz",
+    "rdap": "https://rdap.centralnic.com/xyz/"
+  },
+  "yachts": {
+    "whois": "whois.nic.yachts",
+    "rdap": "https://rdap.centralnic.com/yachts/"
+  },
+  "yahoo": {
+    "whois": "whois.nic.yahoo",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "yamaxun": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/yamaxun/"
+  },
+  "yandex": {
+    "whois": "whois.nic.yandex",
+    "rdap": "https://rdap.nic.yandex/rdap/"
+  },
+  "ye": {
+    "whois": "whois.y.net.ye",
+    "rdap": "https://rdap.y.net.ye/"
+  },
+  "yodobashi": {
+    "whois": "whois.nic.gmo",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "yoga": {
+    "whois": "whois.nic.yoga",
+    "rdap": "https://rdap.nic.yoga/"
+  },
+  "yokohama": {
+    "whois": "whois.nic.yokohama",
+    "rdap": "https://rdap.gmoregistry.net/rdap/"
+  },
+  "you": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/you/"
+  },
+  "youtube": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "yt": {
+    "whois": "whois.nic.yt",
+    "rdap": "https://rdap.nic.yt/"
+  },
+  "yun": {
+    "whois": "whois.teleinfo.cn",
+    "rdap": "https://rdap.teleinfo.cn/"
+  },
+  "za": {
+    "whois": null,
+    "rdap": null
+  },
+  "zappos": {
+    "whois": null,
+    "rdap": "https://rdap.nominet.uk/zappos/"
+  },
+  "zara": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "zero": {
+    "whois": "whois.nic.zero",
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "zip": {
+    "whois": null,
+    "rdap": "https://pubapi.registry.google/rdap/"
+  },
+  "zm": {
+    "whois": "whois.zicta.zm",
+    "rdap": "https://rdap.nic.zm/"
+  },
+  "zone": {
+    "whois": null,
+    "rdap": "https://rdap.identitydigital.services/rdap/"
+  },
+  "zuerich": {
+    "whois": "whois.nic.zuerich",
+    "rdap": "https://rdap.centralnic.com/zuerich/"
+  },
+  "zw": {
+    "whois": null,
+    "rdap": null
+  }
+}
